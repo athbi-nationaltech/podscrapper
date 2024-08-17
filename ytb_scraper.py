@@ -53,6 +53,7 @@ def fetch_video_ids(channel_name):
         response1 = requests.get(base_url, params=params)
         response = json.loads(response1.content)
         # print(response)
+        # raise Exception(f"No playlist found for {channel_name}")
         
     except HttpError as e:
         print(f"An HTTP error occurred: {e}")
@@ -73,7 +74,7 @@ def fetch_video_ids(channel_name):
             youtube.playlistItems()
             .list(
                 # part="contentDetails",
-                part="snippet",
+                part="snippet, contentDetails, status, id",
                 playlistId=playlist_id,
                 maxResults=50,
                 pageToken=next_page_token,
@@ -90,17 +91,23 @@ def fetch_video_ids(channel_name):
 
     # Extract video URLs
     video_urls = []
+    
 
     for video in videos:
         video_id = video["snippet"]["resourceId"]["videoId"]
+        publishedAt = video["snippet"]["publishedAt"]
+        channelTitle = video["snippet"]["channelTitle"]
         video_url = f"https://www.youtube.com/watch?v={video_id}"
         video_title = video["snippet"]["title"]
-        video_urls.append({"ID": video_id, "URL": video_url, "Title": video_title})
-
+        video_urls.append({"ID": video_id, "URL": video_url, "Title": video_title, "publishedAt": publishedAt, "channelTitle": channelTitle})
+        
+    # for video in videos:
+    #     pprint(video)
+    #     pprint("------")
     return video_urls
 
 
-def fetch_and_save_transcript(video_id, file_name):
+def fetch_and_save_transcript(video_id, file_name, file_name2):
     """
     Saves the transcript of a video in a file.
     Args:
@@ -117,12 +124,11 @@ def fetch_and_save_transcript(video_id, file_name):
         return False
     # with open(file_name, "w", encoding="utf-8") as file:
     with open(file_name, "w", encoding='utf8') as file:
-        # for line in transcript:
-        #     file.write(line["text"] + "\n")
-            # print(line)
-        
-        # print("transcript:", type(transcript))
         json.dump(transcript, file,indent=4,ensure_ascii=False)
+
+    with open(file_name2, "w", encoding="utf-8") as file:
+        for line in transcript:
+            file.write(line["text"] + "\n")
     return True
 
 
@@ -148,8 +154,13 @@ if __name__ == "__main__":
     channel_name = args.channel_name
     results_dir = args.results_dir
 
-    TRANSCRIPTS_DIR = os.path.join(os.getcwd(), results_dir)
+    TRANSCRIPTS_DIR = os.path.join(os.getcwd(), channel_name)
+    TRANSCRIPTS_DIRTEXT = TRANSCRIPTS_DIR + "/raw"
+    TRANSCRIPTS_DIRJson =TRANSCRIPTS_DIR + "/json"
     os.makedirs(TRANSCRIPTS_DIR, exist_ok=True)
+    os.makedirs(TRANSCRIPTS_DIRTEXT, exist_ok=True)
+    os.makedirs(TRANSCRIPTS_DIRJson, exist_ok=True)
+    # break
 
     print(f"Fetching video IDs for {channel_name}...")
     videos = fetch_video_ids(channel_name)
@@ -161,12 +172,14 @@ if __name__ == "__main__":
     print(f"Fetching transcripts for {channel_name}...")
     cnt = 0
     for i, video in enumerate(tqdm(videos)):
-        output_file = os.path.join(TRANSCRIPTS_DIR, f"{channel_name}_{i}.json")
+        video_id = video["ID"]
+        output_file = os.path.join(TRANSCRIPTS_DIR,"json", f"{results_dir}_{i}_{video_id}.json")
+        output_file2 = os.path.join(TRANSCRIPTS_DIR,"raw", f"{results_dir}_{i}_{video_id}.txt")
         json_file = os.path.join(TRANSCRIPTS_DIR, "transcripts.json")
-        pprint(video)
-        print("====")
+        # pprint(video)
+        # print("====")
         # save transcript
-        success = fetch_and_save_transcript(video["ID"], output_file)
+        success = fetch_and_save_transcript(video["ID"], output_file, output_file2 )
 
         # save json file with transcript_path, video_url, video_title
         if success:
