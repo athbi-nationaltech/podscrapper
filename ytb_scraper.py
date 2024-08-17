@@ -32,6 +32,8 @@ def get_channel_id(channel_name):
     text = r.text
     # Split the text to get only the section containing the channel id
     id = text.split("youtube.com/channel/")[1].split('">')[0]
+    print("channel id:", id)
+    print("====")
     return id
 
 
@@ -46,19 +48,19 @@ def fetch_video_ids(channel_name):
     # Make a request to youtube api
     base_url = "https://www.googleapis.com/youtube/v3/channels"
     channel_id = get_channel_id(channel_name)
-    # print(channel_id)
+    
     params = {"part": "contentDetails", "id": channel_id, "key": api_key}
-    # print(params)
+    
     try:
         response1 = requests.get(base_url, params=params)
         response = json.loads(response1.content)
-        # print(response)
+        
         # raise Exception(f"No playlist found for {channel_name}")
         
     except HttpError as e:
         print(f"An HTTP error occurred: {e}")
         return []
-    # print(response1)
+    
     if "items" not in response or not response["items"]:
         raise Exception(f"No playlist found for {channel_name}")
 
@@ -83,6 +85,9 @@ def fetch_video_ids(channel_name):
         )
 
         videos += playlist_items_response["items"]
+        # print("=======")
+        # pprint(videos)
+        # print("========")
 
         next_page_token = playlist_items_response.get("nextPageToken")
 
@@ -95,19 +100,18 @@ def fetch_video_ids(channel_name):
 
     for video in videos:
         video_id = video["snippet"]["resourceId"]["videoId"]
+        description = video["snippet"]["description"]
+        thumbnails = video["snippet"]["thumbnails"]
         publishedAt = video["snippet"]["publishedAt"]
         channelTitle = video["snippet"]["channelTitle"]
         video_url = f"https://www.youtube.com/watch?v={video_id}"
         video_title = video["snippet"]["title"]
-        video_urls.append({"ID": video_id, "URL": video_url, "Title": video_title, "publishedAt": publishedAt, "channelTitle": channelTitle})
+        video_urls.append({"ID": video_id, "URL": video_url, "Title": video_title, "publishedAt": publishedAt, "channelTitle": channelTitle, "thumbnails": thumbnails, "description": description})
         
-    # for video in videos:
-    #     pprint(video)
-    #     pprint("------")
     return video_urls
 
 
-def fetch_and_save_transcript(video_id, file_name, file_name2):
+def fetch_and_save_transcript(video, file_name, file_name2):
     """
     Saves the transcript of a video in a file.
     Args:
@@ -117,14 +121,16 @@ def fetch_and_save_transcript(video_id, file_name, file_name2):
         True if the transcript was saved successfully, False otherwise.
     """
     try:
-        transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=["ar"])
-        # print(transcript)
+        transcript = YouTubeTranscriptApi.get_transcript(video["ID"], languages=["ar"])
     except Exception as e:
         print(f"An error occurred: {e}")
         return False
     # with open(file_name, "w", encoding="utf-8") as file:
+    DictData = {}
+    DictData["meta"] = video
+    DictData["transcript"] = transcript
     with open(file_name, "w", encoding='utf8') as file:
-        json.dump(transcript, file,indent=4,ensure_ascii=False)
+        json.dump(DictData, file,indent=4,ensure_ascii=False)
 
     with open(file_name2, "w", encoding="utf-8") as file:
         for line in transcript:
@@ -164,8 +170,6 @@ if __name__ == "__main__":
 
     print(f"Fetching video IDs for {channel_name}...")
     videos = fetch_video_ids(channel_name)
-    # print(videos)
-    # print("videos:", type(videos))
     if max_videos:
         videos = videos[:max_videos]
 
@@ -176,10 +180,9 @@ if __name__ == "__main__":
         output_file = os.path.join(TRANSCRIPTS_DIR,"json", f"{results_dir}_{i}_{video_id}.json")
         output_file2 = os.path.join(TRANSCRIPTS_DIR,"raw", f"{results_dir}_{i}_{video_id}.txt")
         json_file = os.path.join(TRANSCRIPTS_DIR, "transcripts.json")
-        # pprint(video)
-        # print("====")
+        
         # save transcript
-        success = fetch_and_save_transcript(video["ID"], output_file, output_file2 )
+        success = fetch_and_save_transcript(video, output_file, output_file2 )
 
         # save json file with transcript_path, video_url, video_title
         if success:
@@ -191,6 +194,8 @@ if __name__ == "__main__":
                         "transcript_path": output_file if success else "",
                         "video_url": video["URL"],
                         "video_title": video["Title"],
+                        "channelTitle": video["channelTitle"],
+                        "publishedAt": video["publishedAt"],
                     },
                     file,
                     ensure_ascii=False,
