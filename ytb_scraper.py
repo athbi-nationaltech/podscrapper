@@ -8,7 +8,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from tqdm import tqdm
 from youtube_transcript_api import YouTubeTranscriptApi
-
+from isodate import parse_duration
 
 load_dotenv()
 api_key = os.getenv("YTB_API_KEY")
@@ -45,6 +45,7 @@ def fetch_video_ids(channel_name):
     Returns:
       A list of {video ID, video url, title}.
     """
+    import isodate 
     # Make a request to youtube api
     base_url = "https://www.googleapis.com/youtube/v3/channels"
     channel_id = get_channel_id(channel_name)
@@ -99,14 +100,27 @@ def fetch_video_ids(channel_name):
     
 
     for video in videos:
+        
         video_id = video["snippet"]["resourceId"]["videoId"]
+        videoInfo = (
+            youtube.videos()
+            .list(
+                # part="contentDetails",
+                part="contentDetails, statistics, topicDetails",
+                id=video_id
+            )
+            .execute()
+        )
+        durationInSeconds = isodate.parse_duration(videoInfo["items"][0]["contentDetails"]["duration"])
+        # durationInSeconds = videoInfo["items"]["contentDetails"]["duration"]
+        print(video_id , " :: " , durationInSeconds)
         description = video["snippet"]["description"]
         thumbnails = video["snippet"]["thumbnails"]
         publishedAt = video["snippet"]["publishedAt"]
         channelTitle = video["snippet"]["channelTitle"]
         video_url = f"https://www.youtube.com/watch?v={video_id}"
         video_title = video["snippet"]["title"]
-        video_urls.append({"ID": video_id, "URL": video_url, "Title": video_title, "publishedAt": publishedAt, "channelTitle": channelTitle, "thumbnails": thumbnails, "description": description})
+        video_urls.append({"ID": video_id, "URL": video_url, "Title": video_title, "publishedAt": publishedAt, "channelTitle": channelTitle, "thumbnails": thumbnails, "description": description, "videoInfo": videoInfo})
         
     return video_urls
 
