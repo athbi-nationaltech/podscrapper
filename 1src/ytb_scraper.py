@@ -30,6 +30,7 @@ def get_channel_id(channel_name):
     r = requests.get(url)
     # Retrieve the whole page source
     text = r.text
+    print(text)
     # Split the text to get only the section containing the channel id
     id = text.split("youtube.com/channel/")[1].split('">')[0]
     return id
@@ -46,6 +47,7 @@ def fetch_video_ids(channel_name):
     # Make a request to youtube api
     base_url = "https://www.googleapis.com/youtube/v3/channels"
     channel_id = get_channel_id(channel_name)
+    print("channel id:", channel_id)
     params = {"part": "contentDetails", "id": channel_id, "key": api_key}
     try:
         response = requests.get(base_url, params=params)

@@ -1,7 +1,7 @@
 import argparse
 import json
 import os
-
+from pprint import pprint
 import requests
 from dotenv import load_dotenv
 from googleapiclient.discovery import build
@@ -46,14 +46,18 @@ def fetch_video_ids(channel_name):
     # Make a request to youtube api
     base_url = "https://www.googleapis.com/youtube/v3/channels"
     channel_id = get_channel_id(channel_name)
+    # print(channel_id)
     params = {"part": "contentDetails", "id": channel_id, "key": api_key}
+    # print(params)
     try:
-        response = requests.get(base_url, params=params)
-        response = json.loads(response.content)
+        response1 = requests.get(base_url, params=params)
+        response = json.loads(response1.content)
+        # print(response)
+        
     except HttpError as e:
         print(f"An HTTP error occurred: {e}")
         return []
-
+    # print(response1)
     if "items" not in response or not response["items"]:
         raise Exception(f"No playlist found for {channel_name}")
 
@@ -107,12 +111,18 @@ def fetch_and_save_transcript(video_id, file_name):
     """
     try:
         transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=["ar"])
+        # print(transcript)
     except Exception as e:
         print(f"An error occurred: {e}")
         return False
-    with open(file_name, "w", encoding="utf-8") as file:
-        for line in transcript:
-            file.write(line["text"] + "\n")
+    # with open(file_name, "w", encoding="utf-8") as file:
+    with open(file_name, "w", encoding='utf8') as file:
+        # for line in transcript:
+        #     file.write(line["text"] + "\n")
+            # print(line)
+        
+        # print("transcript:", type(transcript))
+        json.dump(transcript, file,indent=4,ensure_ascii=False)
     return True
 
 
@@ -143,15 +153,18 @@ if __name__ == "__main__":
 
     print(f"Fetching video IDs for {channel_name}...")
     videos = fetch_video_ids(channel_name)
+    # print(videos)
+    # print("videos:", type(videos))
     if max_videos:
         videos = videos[:max_videos]
 
     print(f"Fetching transcripts for {channel_name}...")
     cnt = 0
     for i, video in enumerate(tqdm(videos)):
-        output_file = os.path.join(TRANSCRIPTS_DIR, f"{channel_name}_{i}.txt")
+        output_file = os.path.join(TRANSCRIPTS_DIR, f"{channel_name}_{i}.json")
         json_file = os.path.join(TRANSCRIPTS_DIR, "transcripts.json")
-
+        pprint(video)
+        print("====")
         # save transcript
         success = fetch_and_save_transcript(video["ID"], output_file)
 
