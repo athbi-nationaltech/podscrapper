@@ -37,7 +37,7 @@ def get_channel_id(channel_name):
     return id
 
 
-def fetch_video_ids(channel_name):
+def fetch_video_ids(channel_name,max_videos):
     """
     Fetches the video IDs of the videos in the uploads playlist of a channel.
     Args:
@@ -71,7 +71,6 @@ def fetch_video_ids(channel_name):
     # Retrieve all videos from uploads playlist
     videos = []
     next_page_token = None
-
     while True:
         playlist_items_response = (
             youtube.playlistItems()
@@ -86,19 +85,16 @@ def fetch_video_ids(channel_name):
         )
 
         videos += playlist_items_response["items"]
-        # print("=======")
-        # pprint(videos)
-        # print("========")
-
         next_page_token = playlist_items_response.get("nextPageToken")
 
         if not next_page_token:
             break
+        
 
     # Extract video URLs
     video_urls = []
     
-
+    cnt2 = 1
     for video in videos:
         
         video_id = video["snippet"]["resourceId"]["videoId"]
@@ -113,7 +109,8 @@ def fetch_video_ids(channel_name):
         )
         durationInSeconds = isodate.parse_duration(videoInfo["items"][0]["contentDetails"]["duration"])
         # durationInSeconds = videoInfo["items"]["contentDetails"]["duration"]
-        print(video_id , " :: " , durationInSeconds)
+        print("COUNT", cnt2, " :: " , video_id , " :: " , durationInSeconds)
+        cnt2 += 1
         description = video["snippet"]["description"]
         thumbnails = video["snippet"]["thumbnails"]
         publishedAt = video["snippet"]["publishedAt"]
@@ -121,6 +118,8 @@ def fetch_video_ids(channel_name):
         video_url = f"https://www.youtube.com/watch?v={video_id}"
         video_title = video["snippet"]["title"]
         video_urls.append({"ID": video_id, "URL": video_url, "Title": video_title, "publishedAt": publishedAt, "channelTitle": channelTitle, "thumbnails": thumbnails, "description": description, "videoInfo": videoInfo})
+        if max_videos < cnt2 :
+            break
         
     return video_urls
 
@@ -174,7 +173,7 @@ if __name__ == "__main__":
     channel_name = args.channel_name
     results_dir = args.results_dir
 
-    TRANSCRIPTS_DIR = os.path.join(os.getcwd(), channel_name)
+    TRANSCRIPTS_DIR = os.path.join(os.getcwd(),"Data", channel_name)
     TRANSCRIPTS_DIRTEXT = TRANSCRIPTS_DIR + "/raw"
     TRANSCRIPTS_DIRJson =TRANSCRIPTS_DIR + "/json"
     os.makedirs(TRANSCRIPTS_DIR, exist_ok=True)
@@ -183,7 +182,7 @@ if __name__ == "__main__":
     # break
 
     print(f"Fetching video IDs for {channel_name}...")
-    videos = fetch_video_ids(channel_name)
+    videos = fetch_video_ids(channel_name,max_videos)
     if max_videos:
         videos = videos[:max_videos]
 
