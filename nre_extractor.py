@@ -13,9 +13,9 @@ def generate():
       [text1, document1],
       generation_config=generation_config,
       safety_settings=safety_settings,
-      stream=True,
+      stream=False,
   )
-
+  print(type(responses))
   for response in responses:
     print(response.text, end="")
 
