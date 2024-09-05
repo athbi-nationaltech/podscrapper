@@ -120,7 +120,7 @@ def fetch_video_ids(channel_name,max_videos):
         channelTitle = video["snippet"]["channelTitle"]
         video_url = f"https://www.youtube.com/watch?v={video_id}"
         video_title = video["snippet"]["title"]
-        if durationInSeconds.total_seconds() > 15 * 60:
+        if durationInSeconds.total_seconds() > 10 * 60:
             video_urls.append({"ID": video_id, "URL": video_url, "Title": video_title, "publishedAt": publishedAt, "channelTitle": channelTitle, "thumbnails": thumbnails, "description": description, "videoInfo": videoInfo})
             cnt2 += 1
         
