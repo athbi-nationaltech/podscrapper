@@ -18,7 +18,7 @@ def generate():
   print(type(responses))
   for response in responses:
     print(response.text, end="")
-
+# here is the prompt
 text1 = """هذه ملف لتفريغ نصي لمقابلة تلفزيونية
 احتاج ان تستخرج جميع أسماء الكيانات في الحلقة على حدة، مصنفة حسب نوع الاسم 
 و يمكنك اضافة ملخص صغير لكل اسم، عبارة عن فقرة واحدة عن كل اسم
