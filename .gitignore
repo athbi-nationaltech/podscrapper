@@ -3,4 +3,3 @@ venv/
 *.ipynb
 transcripts/
 .vscode/
-Data/*

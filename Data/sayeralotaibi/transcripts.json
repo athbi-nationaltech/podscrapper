@@ -1,0 +1,3879 @@
+{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_0_dLQXectq6CQ.json",
+    "video_url": "https://www.youtube.com/watch?v=dLQXectq6CQ",
+    "video_title": "لماذا تفشل أغلب مشاريع القهوة؟ | بودكاست روايتهم 029 | محمد دشتي",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-09-03T18:00:20Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "ZkQWplGMlTxN4QzZ4SMUZwG10vE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "XpUBwPbtdH5DYuIdwEB7LtE3KXM",
+                "id": "dLQXectq6CQ",
+                "contentDetails": {
+                    "duration": "PT1H51M25S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "7743",
+                    "likeCount": "182",
+                    "favoriteCount": "0",
+                    "commentCount": "22"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_1_xeMJACEqOiM.json",
+    "video_url": "https://www.youtube.com/watch?v=xeMJACEqOiM",
+    "video_title": "ملابسك قد تدمر الكوكب وتقتل الناس! | برنامج ما لم يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-08-31T18:00:27Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "ShTDxt3lRl3_UNqpIegJY1fhWrM",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "rhfKUeqxqFbD3TujMG65KAcHCeA",
+                "id": "xeMJACEqOiM",
+                "contentDetails": {
+                    "duration": "PT16M26S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "7377",
+                    "likeCount": "440",
+                    "favoriteCount": "0",
+                    "commentCount": "21"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_2_3OfocZZnyI8.json",
+    "video_url": "https://www.youtube.com/watch?v=3OfocZZnyI8",
+    "video_title": "حياة الماسونيين واليهود في الدول العربية | بودكاست روايتهم 028 | حمزة عليان",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-08-27T18:00:02Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "9C3aCItqlW4tFy0cUqpZRkwo9Jg",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "0c0MaN1DJ0zJx12ot6tgZs_Yznc",
+                "id": "3OfocZZnyI8",
+                "contentDetails": {
+                    "duration": "PT2H4M2S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "240372",
+                    "likeCount": "2432",
+                    "favoriteCount": "0",
+                    "commentCount": "278"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_3_7iMjD4vYBeM.json",
+    "video_url": "https://www.youtube.com/watch?v=7iMjD4vYBeM",
+    "video_title": "كيف نجحت بعد خسارة ٦ مليون دولار؟ | بودكاست روايتهم 027 | أيمن الرويح",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-08-20T19:05:43Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "D3rE4no6E49H-VVZjCedHjYbsVQ",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "HcvdZdqd44qnj0vWHamHCQ-8xUQ",
+                "id": "7iMjD4vYBeM",
+                "contentDetails": {
+                    "duration": "PT2H12M48S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "20951",
+                    "likeCount": "322",
+                    "favoriteCount": "0",
+                    "commentCount": "20"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_4_06qlanJFTWw.json",
+    "video_url": "https://www.youtube.com/watch?v=06qlanJFTWw",
+    "video_title": "كيف تغيّرت حياتي بعد دخول غزة؟ | بودكاست روايتهم 026 |  د. محمد أسد الكندري",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-08-06T18:45:00Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "TbD4TlJv2IGn6OPTKgMiWlDRNBg",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ayKM6Idl-VUiVcPUHPpHWTt9088",
+                "id": "06qlanJFTWw",
+                "contentDetails": {
+                    "duration": "PT1H6M6S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "41926",
+                    "likeCount": "982",
+                    "favoriteCount": "0",
+                    "commentCount": "96"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_5_SWxuRBmKvYw.json",
+    "video_url": "https://www.youtube.com/watch?v=SWxuRBmKvYw",
+    "video_title": "لماذا يكتئب المشاهير؟ | برنامج ما لم يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-08-03T18:00:18Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "8dFKfzm39UUQcK1lcSFXliHzWNQ",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "vCHejujQWdw1V5PlHvx3m_rytbE",
+                "id": "SWxuRBmKvYw",
+                "contentDetails": {
+                    "duration": "PT18M9S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "12519",
+                    "likeCount": "745",
+                    "favoriteCount": "0",
+                    "commentCount": "56"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_6_Pdbym3cyIbI.json",
+    "video_url": "https://www.youtube.com/watch?v=Pdbym3cyIbI",
+    "video_title": "من صديق صدام حسين إلى قائد المقاومة | بودكاست روايتهم 025 | محمد الفجي",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-07-30T18:00:13Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "MA_k1lpgqBpiiZ5rgU_boFOBInk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "0an82RNuiQ0ggZzp9PfVUrXvhp8",
+                "id": "Pdbym3cyIbI",
+                "contentDetails": {
+                    "duration": "PT3H31M30S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "940105",
+                    "likeCount": "8211",
+                    "favoriteCount": "0",
+                    "commentCount": "1452"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_7_S6lB7nmaJ4g.json",
+    "video_url": "https://www.youtube.com/watch?v=S6lB7nmaJ4g",
+    "video_title": "سلطان اغنى من جميع العرب! | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-07-28T17:00:16Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "1BCwJliBlwlZSDHodiWty1LoVcc",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "lTm4QCzFbjErxWfZVsUD7rJLCVo",
+                "id": "S6lB7nmaJ4g",
+                "contentDetails": {
+                    "duration": "PT13M",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "23621",
+                    "likeCount": "1058",
+                    "favoriteCount": "0",
+                    "commentCount": "49"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_8_y1axMk159co.json",
+    "video_url": "https://www.youtube.com/watch?v=y1axMk159co",
+    "video_title": "من القبائل الصينية إلى الخليج العربي | بودكاست روايتهم 024 | ام كلثوم",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-07-23T17:31:40Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "X7XGk_awIuIPZRfmIaROKIwMyP0",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "uY1YQRDLR6r7OP7zpUnbTzwo70w",
+                "id": "y1axMk159co",
+                "contentDetails": {
+                    "duration": "PT1H31M33S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "217913",
+                    "likeCount": "4950",
+                    "favoriteCount": "0",
+                    "commentCount": "589"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_9_qGuiUdydtT4.json",
+    "video_url": "https://www.youtube.com/watch?v=qGuiUdydtT4",
+    "video_title": "تاريخ الخليج في القرن العشرين | بودكاست روايتهم 023 | عبدالكريم المجهول",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-07-16T18:00:23Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "eg45KMgK7-CWDHuSLaPChY9p0rw",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "hX05IEQNnM_xgNIoFnDbkoAa49U",
+                "id": "qGuiUdydtT4",
+                "contentDetails": {
+                    "duration": "PT1H50M38S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "412789",
+                    "likeCount": "4407",
+                    "favoriteCount": "0",
+                    "commentCount": "953"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Knowledge"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_10_Uf9Wq-15oEs.json",
+    "video_url": "https://www.youtube.com/watch?v=Uf9Wq-15oEs",
+    "video_title": "الجانب الخفي من مطارات العالم ! | برنامج ما لم يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-07-13T17:30:03Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "RXvGwBsOptXEzyrsMCwLlSISN98",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ssB3F7bvUOZuFcv1hVqfqtfR6Ws",
+                "id": "Uf9Wq-15oEs",
+                "contentDetails": {
+                    "duration": "PT21M21S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "204052",
+                    "likeCount": "7584",
+                    "favoriteCount": "0",
+                    "commentCount": "257"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_11_2yW8t2E_G24.json",
+    "video_url": "https://www.youtube.com/watch?v=2yW8t2E_G24",
+    "video_title": "قصة التعافي من إدمان ١٥ سنة | بودكاست روايتهم 022 | عبدالله الخضري",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-07-09T17:15:00Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "VjdN8q-CeebUtgJoJoFYdFcJhAg",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "k7UqLId9oSfHuZp17QvxJqP7GUE",
+                "id": "2yW8t2E_G24",
+                "contentDetails": {
+                    "duration": "PT1H20M56S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "472445",
+                    "likeCount": "7391",
+                    "favoriteCount": "0",
+                    "commentCount": "640"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_12_0lXMHm6WxWg.json",
+    "video_url": "https://www.youtube.com/watch?v=0lXMHm6WxWg",
+    "video_title": "أسرار دين المشاهير | برنامج ما لم يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-07-06T16:30:08Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "Io3Vw35DZ1xXWDgwFplcTgBl7Ww",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "pdtZrnsaJCdQm2vB38XsL4dNVR4",
+                "id": "0lXMHm6WxWg",
+                "contentDetails": {
+                    "duration": "PT20M54S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "31892",
+                    "likeCount": "1494",
+                    "favoriteCount": "0",
+                    "commentCount": "84"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_13_OsVVBFkkIr0.json",
+    "video_url": "https://www.youtube.com/watch?v=OsVVBFkkIr0",
+    "video_title": "هل قامت الدولة العباسية على دماء الأمويين؟ | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-03-29T19:36:43Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "sM0VBlUwwZL_MyED37qy5SHmVM4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "EwCaNb6oqnimFG7fHGXOgjHs6O8",
+                "id": "OsVVBFkkIr0",
+                "contentDetails": {
+                    "duration": "PT18M26S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "37972",
+                    "likeCount": "1850",
+                    "favoriteCount": "0",
+                    "commentCount": "133"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Knowledge",
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_14_aGYDqzTSA44.json",
+    "video_url": "https://www.youtube.com/watch?v=aGYDqzTSA44",
+    "video_title": "كيف بدأت المعارك الدموية بين المسلمين؟ | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-03-25T19:08:56Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "8xuLPEAj4g7hO4FMwKepVoce5Cs",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ZCcplXqhvL-Nw6ZXaFx5YL1k_-o",
+                "id": "aGYDqzTSA44",
+                "contentDetails": {
+                    "duration": "PT14M52S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "26842",
+                    "likeCount": "1320",
+                    "favoriteCount": "0",
+                    "commentCount": "123"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_15_JlPwnFTPyP8.json",
+    "video_url": "https://www.youtube.com/watch?v=JlPwnFTPyP8",
+    "video_title": "ما هي خطة إسرائيل لاحتلال الدول العربية؟ | عبدالكريم الشطي",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-03-19T19:00:13Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "r4zXf5ArRV00bLQq0wzv1Cl8zmA",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ALVpsp1WINGb_4fVsy2ZuqeSW_I",
+                "id": "JlPwnFTPyP8",
+                "contentDetails": {
+                    "duration": "PT15M1S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "367055",
+                    "likeCount": "8520",
+                    "favoriteCount": "0"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_16_sPCeKCNQUvw.json",
+    "video_url": "https://www.youtube.com/watch?v=sPCeKCNQUvw",
+    "video_title": "العالم المظلم من حفلات أم كلثوم السياسية | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-03-17T18:00:32Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "5Mcce9KKshG1takV4gA34jdl6gU",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "8OgAH9bkod8fckYxr_vbPcMOiik",
+                "id": "sPCeKCNQUvw",
+                "contentDetails": {
+                    "duration": "PT16M52S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "23986",
+                    "likeCount": "1363",
+                    "favoriteCount": "0",
+                    "commentCount": "61"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_17_BOQzvuTRkdM.json",
+    "video_url": "https://www.youtube.com/watch?v=BOQzvuTRkdM",
+    "video_title": "الحرب البحرية وعاصفة الصحراء في الخليج | بودكاست روايتهم 021 | جاسم الأنصاري",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-02-28T18:30:14Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "NnB9HUw3LHSVjHmgFrDdcYykvyM",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "hsgzspOGWtYvEU3XfTvYumaF39c",
+                "id": "BOQzvuTRkdM",
+                "contentDetails": {
+                    "duration": "PT2H40M10S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "282524",
+                    "likeCount": "1959",
+                    "favoriteCount": "0",
+                    "commentCount": "235"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_18_DZ_lqJXbaOY.json",
+    "video_url": "https://www.youtube.com/watch?v=DZ_lqJXbaOY",
+    "video_title": "عربي صادق الملك عبدالعزيز والشريف حسين وحكم دولة لاتينية ! | برنامج ما لم يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-02-24T17:00:09Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "tA5mBVO-9oYxLAUVf6-zHtmpqWQ",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "n1WEJmbqaxLo_BTPJ6e7X68sK2s",
+                "id": "DZ_lqJXbaOY",
+                "contentDetails": {
+                    "duration": "PT17M25S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "100159",
+                    "likeCount": "3000",
+                    "favoriteCount": "0",
+                    "commentCount": "127"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_19_rwiVP1hIOOQ.json",
+    "video_url": "https://www.youtube.com/watch?v=rwiVP1hIOOQ",
+    "video_title": "ما لا تعرفه عن تاريخ العرب واليهود | بودكاست روايتهم 020 | عبدالكريم الشطي",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-02-20T18:11:40Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "_Qvunb6wJlo4GQ1Oisxr3cj3XRs",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "-4fhl6J7zAl-ImxfqgMf-IAzddk",
+                "id": "rwiVP1hIOOQ",
+                "contentDetails": {
+                    "duration": "PT2H46M39S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "2035807",
+                    "likeCount": "16099",
+                    "favoriteCount": "0",
+                    "commentCount": "2402"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_20_OOGZqurI4kk.json",
+    "video_url": "https://www.youtube.com/watch?v=OOGZqurI4kk",
+    "video_title": "أسرار عالم الجرائم في الخليج | بودكاست روايتهم 019 | محمد الشيباني",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-02-15T18:00:11Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "TnMmlQCQf8v-nDdS9bsnEMDnTtY",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "0EDbbmvIHHjeauvk8uQ-_5AwzYU",
+                "id": "OOGZqurI4kk",
+                "contentDetails": {
+                    "duration": "PT1H54M59S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "105998",
+                    "likeCount": "1560",
+                    "favoriteCount": "0",
+                    "commentCount": "124"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_21_zEWsqqHbq-s.json",
+    "video_url": "https://www.youtube.com/watch?v=zEWsqqHbq-s",
+    "video_title": "من طفل بريء إلى ديكتاتور ليبيا | برنامج ما لم يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-02-10T19:13:56Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "y22y7Zv41BVHgw0MCJjMWm5J7sM",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "_MUxbPjGYC_D1-JbpSa_VDAwnec",
+                "id": "zEWsqqHbq-s",
+                "contentDetails": {
+                    "duration": "PT19M20S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "117699",
+                    "likeCount": "4719",
+                    "favoriteCount": "0",
+                    "commentCount": "965"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_22_QqtqLLGqQpc.json",
+    "video_url": "https://www.youtube.com/watch?v=QqtqLLGqQpc",
+    "video_title": "لماذا منع هذا الفيلم عن اليوتيوب والإنترنت للأبد؟ | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-02-03T19:20:14Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "cKbqq3uUMBBLejhD9RKsoTzt7bg",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "mHSEHuOel_SkSVOAfLL-epWcJpo",
+                "id": "QqtqLLGqQpc",
+                "contentDetails": {
+                    "duration": "PT15M10S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": false,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "44581",
+                    "likeCount": "3071",
+                    "favoriteCount": "0",
+                    "commentCount": "119"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Entertainment",
+                        "https://en.wikipedia.org/wiki/Film"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_23_32eRb0Sd4Lw.json",
+    "video_url": "https://www.youtube.com/watch?v=32eRb0Sd4Lw",
+    "video_title": "من ضحية التنمر إلى حياة النجومية | بودكاست روايتهم 018 | طلال سام",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-01-30T18:00:01Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "fwKVsYSItLpFvA-ZkAQiB636KYI",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "vlnbeFkdYheTkNkM4u-0P9odGXc",
+                "id": "32eRb0Sd4Lw",
+                "contentDetails": {
+                    "duration": "PT1H33M19S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "254304",
+                    "likeCount": "9758",
+                    "favoriteCount": "0",
+                    "commentCount": "582"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_24_0KZLnv3_gzY.json",
+    "video_url": "https://www.youtube.com/watch?v=0KZLnv3_gzY",
+    "video_title": "تاجر سعودي أصبح امبراطور السلاح العالمي ! | برنامج ما لم يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-01-28T16:51:27Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "c67RzTCsww6uQEEXF9xevlxe-lg",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "yFtX5EFYdI80j3Ezicu2LFDUh7U",
+                "id": "0KZLnv3_gzY",
+                "contentDetails": {
+                    "duration": "PT13M48S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "92601",
+                    "likeCount": "2724",
+                    "favoriteCount": "0",
+                    "commentCount": "123"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_25_8a00RyjpmMg.json",
+    "video_url": "https://www.youtube.com/watch?v=8a00RyjpmMg",
+    "video_title": "كواليس المسلسلات الخليجية الممنوعة | بودكاست روايتهم 017 | خالد البريكي",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-01-23T18:16:24Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "m_ieIE5Mo68gPR6xcnKMLEn5bLs",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "VUUxG-wkW3e7pH8Q5d1ukO9fu80",
+                "id": "8a00RyjpmMg",
+                "contentDetails": {
+                    "duration": "PT1H39M49S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "76299",
+                    "likeCount": "839",
+                    "favoriteCount": "0",
+                    "commentCount": "71"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Entertainment",
+                        "https://en.wikipedia.org/wiki/Film",
+                        "https://en.wikipedia.org/wiki/Performing_arts",
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_26_QdoUUmp3txI.json",
+    "video_url": "https://www.youtube.com/watch?v=QdoUUmp3txI",
+    "video_title": "هكذا تصبح قوي نفسياً | بودكاست روايتهم 016 | د. أنس بن عوف",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-01-16T17:00:17Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "HyHDkdOpLNEPCswb_r_VKBjvbcM",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "PLLsPca_dHJ5FZ4zM91XxdBYgKI",
+                "id": "QdoUUmp3txI",
+                "contentDetails": {
+                    "duration": "PT1H49M10S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "224043",
+                    "likeCount": "4816",
+                    "favoriteCount": "0",
+                    "commentCount": "184"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_27_PgBD0L1hAnQ.json",
+    "video_url": "https://www.youtube.com/watch?v=PgBD0L1hAnQ",
+    "video_title": "وثائقي: ٢٨ سنة من الإتجار بالأطفال وجزيرة الذنوب (الحقيقة الكاملة🔞) | برنامج ما لمْ يُرؤَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-01-13T18:30:25Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "rY2vyLrSnN3UTk_k1_2KIG_-uNQ",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "w4WgjWpzFgDQvAo3X8ANN6n8caQ",
+                "id": "PgBD0L1hAnQ",
+                "contentDetails": {
+                    "duration": "PT20M23S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "76708",
+                    "likeCount": "4038",
+                    "favoriteCount": "0",
+                    "commentCount": "121"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_28_OiFq6EyHsc0.json",
+    "video_url": "https://www.youtube.com/watch?v=OiFq6EyHsc0",
+    "video_title": "الانمي: سلاح اليابان الإعلامي | بودكاست روايتهم 015 | أحمد الصالح",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-01-09T20:28:17Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "bYlsBlNkAr1OI1IJJt15pI6-1Z0",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "OZduH0CXHktRIbW4OabzC1J_v6Y",
+                "id": "OiFq6EyHsc0",
+                "contentDetails": {
+                    "duration": "PT1H23M49S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "56551",
+                    "likeCount": "1041",
+                    "favoriteCount": "0",
+                    "commentCount": "61"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_29_5E0hSnmC8YQ.json",
+    "video_url": "https://www.youtube.com/watch?v=5E0hSnmC8YQ",
+    "video_title": "لماذا صحفي جاسوس أرسله صدام بتابوت؟ | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-01-07T18:00:02Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "q58Dt2llgP6dbLqjJtJtTYroX1s",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "6W6kM-WZc2koOQ-gQK_5S_dFd8w",
+                "id": "5E0hSnmC8YQ",
+                "contentDetails": {
+                    "duration": "PT13M32S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": false,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "116236",
+                    "likeCount": "4746",
+                    "favoriteCount": "0",
+                    "commentCount": "125"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_30_-iCHKXmv5fw.json",
+    "video_url": "https://www.youtube.com/watch?v=-iCHKXmv5fw",
+    "video_title": "حقيقة اغتيال الأميرة ديانا وابن التاجر العربي ! | برنامج ما لمْ يروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2024-01-02T18:00:00Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "BPFYBvIOy8CMim7ApEKZJzQ4APA",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "T-c8mg-NUbQwnEiFfBK6P79c3Ko",
+                "id": "-iCHKXmv5fw",
+                "contentDetails": {
+                    "duration": "PT21M7S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "45832",
+                    "likeCount": "2190",
+                    "favoriteCount": "0",
+                    "commentCount": "85"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_31_C6MN5LFbGeo.json",
+    "video_url": "https://www.youtube.com/watch?v=C6MN5LFbGeo",
+    "video_title": "ما لا تعرفه عن تاريخ الخليج | بودكاست روايتهم 014 | عبدالعزيز العويّد",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-12-30T16:15:02Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "OAewpV5bOSwZatoR5dYWUvVrmv0",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "LA3yQBKBuOIB7IlVasBkh94hOIQ",
+                "id": "C6MN5LFbGeo",
+                "contentDetails": {
+                    "duration": "PT1H12M20S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "831085",
+                    "likeCount": "8045",
+                    "favoriteCount": "0",
+                    "commentCount": "1198"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_32_KBEFZ_EA_KA.json",
+    "video_url": "https://www.youtube.com/watch?v=KBEFZ_EA_KA",
+    "video_title": "كيف تواجه أزمات الحياة بالصلاة؟ | بودكاست روايتهم 013 | أحمد النفيس",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-12-26T18:00:14Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "U3tnrN8JNuf8f2bzVWCfmlFpuU8",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "D37sf1jyEWm6XgWMlEze7mnyQ_k",
+                "id": "KBEFZ_EA_KA",
+                "contentDetails": {
+                    "duration": "PT1H55M8S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "1435938",
+                    "likeCount": "37433",
+                    "favoriteCount": "0",
+                    "commentCount": "1288"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_33_LaQDrcMVAk0.json",
+    "video_url": "https://www.youtube.com/watch?v=LaQDrcMVAk0",
+    "video_title": "ما لمْ يُروَ عن حقيقة الشذوذ 🔞",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-12-23T17:00:15Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "n3ne7MWJTKKuVV8R_arvOimg0SA",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "cejtfO58njzxOstUt6lcg1jj8h8",
+                "id": "LaQDrcMVAk0",
+                "contentDetails": {
+                    "duration": "PT20M1S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "299853",
+                    "likeCount": "12365",
+                    "favoriteCount": "0",
+                    "commentCount": "1565"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_34_QV4_IvzUxTE.json",
+    "video_url": "https://www.youtube.com/watch?v=QV4_IvzUxTE",
+    "video_title": "كيف أحمي الطفل من الانحرافات؟ | بودكاست روايتهم 012 | صلاح اليافعي",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-12-12T17:00:29Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "fciwczylV_801IYzc49rYfFdblE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "Hz9KVJc7njffk0bVH7d338DIGNA",
+                "id": "QV4_IvzUxTE",
+                "contentDetails": {
+                    "duration": "PT2H1M58S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "15215",
+                    "likeCount": "473",
+                    "favoriteCount": "0",
+                    "commentCount": "23"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_35_Dsp62R8iwW0.json",
+    "video_url": "https://www.youtube.com/watch?v=Dsp62R8iwW0",
+    "video_title": "ماذا سيحصل في آخر حرب بالعالم؟ | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-12-09T19:00:04Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "BdPu5JA-PLz51gm1mX45O1KM1y8",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "DPctaMRMlyTlxDY46Au-GR4ERIc",
+                "id": "Dsp62R8iwW0",
+                "contentDetails": {
+                    "duration": "PT16M47S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "38084",
+                    "likeCount": "1920",
+                    "favoriteCount": "0",
+                    "commentCount": "84"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_36_3-wvb1PhRj4.json",
+    "video_url": "https://www.youtube.com/watch?v=3-wvb1PhRj4",
+    "video_title": "مراسل حرب في العراق وأفغانستان والبوسنة | بودكاست روايتهم 011 | حسين جمال",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-12-05T17:00:04Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "QS1x6gUCPG4u-3D0c6V06RON1-A",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "EIKs41axLdN_Lu9MO9EdDkrPBiA",
+                "id": "3-wvb1PhRj4",
+                "contentDetails": {
+                    "duration": "PT1H50M58S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "58956",
+                    "likeCount": "531",
+                    "favoriteCount": "0",
+                    "commentCount": "34"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_37_U3oxt_ZUQZw.json",
+    "video_url": "https://www.youtube.com/watch?v=U3oxt_ZUQZw",
+    "video_title": "قصة طيور الجنة تُروى لأول مرة | بودكاست روايتهم 010 | خالد مقداد",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-11-28T17:00:31Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "5l88bZzvxxm7Kiovx5-yFOmjL7g",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "6qYlT_hwfQD_OX8rgMg6JjB9q50",
+                "id": "U3oxt_ZUQZw",
+                "contentDetails": {
+                    "duration": "PT2H15M9S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "538385",
+                    "likeCount": "12690",
+                    "favoriteCount": "0",
+                    "commentCount": "807"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_38_M9EGAoo4thA.json",
+    "video_url": "https://www.youtube.com/watch?v=M9EGAoo4thA",
+    "video_title": "ما هي الحرب التي أنهت إمبراطورية العرب؟ | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-11-25T17:45:00Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "JxKac7mFMP44HiXN7_ySsFFgxYk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "Ld52LmEfH_8914-tjEbi0E-y_Ag",
+                "id": "M9EGAoo4thA",
+                "contentDetails": {
+                    "duration": "PT14M38S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "62269",
+                    "likeCount": "2472",
+                    "favoriteCount": "0",
+                    "commentCount": "172"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_39_luVEa8z8Jsg.json",
+    "video_url": "https://www.youtube.com/watch?v=luVEa8z8Jsg",
+    "video_title": "كيف أحمي نفسي من الأزمات المالية؟ | بودكاست روايتهم 009 | د. اسامة الفلاح",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-11-21T17:00:42Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "djfEVl50Q_3UIfJ1nMintW6L-bg",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ckAoWM-OGp26RJwid3CBO_idUGU",
+                "id": "luVEa8z8Jsg",
+                "contentDetails": {
+                    "duration": "PT2H17M25S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "65026",
+                    "likeCount": "1121",
+                    "favoriteCount": "0",
+                    "commentCount": "42"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_40_IVOXtZYvzOY.json",
+    "video_url": "https://www.youtube.com/watch?v=IVOXtZYvzOY",
+    "video_title": "ما هي أسرار سجون الأغنياء والمشاهير؟ | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-11-18T20:19:51Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "xhVkdL8iEDHrDbLNsXmCu3V2wAk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "rngIgmZNLhE0GqpnH8ZHtyvEylc",
+                "id": "IVOXtZYvzOY",
+                "contentDetails": {
+                    "duration": "PT14M56S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "53518",
+                    "likeCount": "2346",
+                    "favoriteCount": "0",
+                    "commentCount": "45"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_41_fTCToTZ_40U.json",
+    "video_url": "https://www.youtube.com/watch?v=fTCToTZ_40U",
+    "video_title": "هل المسلسلات الخليجية تمثلنا؟ | بودكاست روايتهم 008 | محمد دحام الشمري",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-11-14T16:30:05Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "C24qcGBU_FG9GAQi6Y0Wx7L_K6g",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "_DdAwedKdhqr4vWrxe3DbQxvIGw",
+                "id": "fTCToTZ_40U",
+                "contentDetails": {
+                    "duration": "PT2H5M14S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "25802",
+                    "likeCount": "340",
+                    "favoriteCount": "0",
+                    "commentCount": "23"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_42_ZdjnhR__168.json",
+    "video_url": "https://www.youtube.com/watch?v=ZdjnhR__168",
+    "video_title": "كيف أغتال رئيس كوريا الشمالية أخاه؟ | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-11-11T19:58:27Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "YID4NrulW0ZwrWPM7S0ktBIncRA",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "LW8sK8r2-JKxPfm0Qex_V3AR0JU",
+                "id": "ZdjnhR__168",
+                "contentDetails": {
+                    "duration": "PT15M53S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "60973",
+                    "likeCount": "2348",
+                    "favoriteCount": "0",
+                    "commentCount": "45"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_43_whDj5ViN0Ts.json",
+    "video_url": "https://www.youtube.com/watch?v=whDj5ViN0Ts",
+    "video_title": "من دار الأيتام إلى منصة التتويج | بودكاست روايتهم 007 | صفا الفيلكاوي",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-11-07T16:30:11Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "IdYLhH7oiJghgVOy9Kfm5TaYa5A",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "KtfzfWOZ6gVDX03XP66xY8k_r6Y",
+                "id": "whDj5ViN0Ts",
+                "contentDetails": {
+                    "duration": "PT54M59S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "275107",
+                    "likeCount": "6598",
+                    "favoriteCount": "0",
+                    "commentCount": "607"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_44_C7h0ib4pNPI.json",
+    "video_url": "https://www.youtube.com/watch?v=C7h0ib4pNPI",
+    "video_title": "وثائقي: يوم تفاجأت إسرائيل بجيوش العرب ! | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-11-04T19:19:15Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "Hfm9I9Y2nlm4JluXMG-d9aCgq1s",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "DAdRNVfoJgJsZRpFUu9aAHlcY_8",
+                "id": "C7h0ib4pNPI",
+                "contentDetails": {
+                    "duration": "PT27M46S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "55161",
+                    "likeCount": "1484",
+                    "favoriteCount": "0",
+                    "commentCount": "72"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Military",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_45_Y-gwFh349j4.json",
+    "video_url": "https://www.youtube.com/watch?v=Y-gwFh349j4",
+    "video_title": "أن تكون وزيراً بعد الحرب | بودكاست روايتهم 006 | جاسم العون",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-10-31T18:00:25Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "RCOQGtVg2H4nGS9Qpn0olfQyeBM",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ArxZgpvEb4No6Vqa6T1AVkP1oYQ",
+                "id": "Y-gwFh349j4",
+                "contentDetails": {
+                    "duration": "PT2H44M47S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "86546",
+                    "likeCount": "581",
+                    "favoriteCount": "0",
+                    "commentCount": "38"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_46_HHLmwnEOLGQ.json",
+    "video_url": "https://www.youtube.com/watch?v=HHLmwnEOLGQ",
+    "video_title": "حكاية فلسطين من الداخل | بودكاست روايتهم 005 | ابن القدس محمد الأنصاري",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-10-24T17:00:09Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "a9pfvLbWvsE9mWc1owHp8toxPcE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "bQYGfEAECSnAJn3NPHfOdvTsI1o",
+                "id": "HHLmwnEOLGQ",
+                "contentDetails": {
+                    "duration": "PT3H28M29S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "652325",
+                    "likeCount": "3506",
+                    "favoriteCount": "0",
+                    "commentCount": "324"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_47_NB-sJzVZVBI.json",
+    "video_url": "https://www.youtube.com/watch?v=NB-sJzVZVBI",
+    "video_title": "من عصابات في فلسطين الى جيش يواجه العرب ! | برنامج ما لمْ يٌروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-10-21T19:00:10Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "-ikAyOrazC7-blpB_ywg_zqQDCo",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "tXAH_6LjKbeqAZ4U9RCC5DnQjLM",
+                "id": "NB-sJzVZVBI",
+                "contentDetails": {
+                    "duration": "PT15M18S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "63130",
+                    "likeCount": "2356",
+                    "favoriteCount": "0",
+                    "commentCount": "98"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Military",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_48_12aKZi0xP08.json",
+    "video_url": "https://www.youtube.com/watch?v=12aKZi0xP08",
+    "video_title": "🇵🇸 هل قاوم الفلسطينيون الهجرات اليهودية؟ | ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-10-14T18:00:01Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "AZcHl-HFDOIHxdfKic72NmonFXk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "yCjWM7JN9ljyj9Cc8B2VA5p2rJc",
+                "id": "12aKZi0xP08",
+                "contentDetails": {
+                    "duration": "PT12M59S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "34129",
+                    "likeCount": "1457",
+                    "favoriteCount": "0",
+                    "commentCount": "67"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_49_bEtv7d9h1WU.json",
+    "video_url": "https://www.youtube.com/watch?v=bEtv7d9h1WU",
+    "video_title": "التاريخ السري للمسلمين الذين أسسوا استراليا | برنامج ما لم يَُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-10-07T18:45:01Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "5UiryLH5bLOm8s8UsYNKi4mCf7Q",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "bI9QzeeB6Xe4w8w_TUAuEvXojys",
+                "id": "bEtv7d9h1WU",
+                "contentDetails": {
+                    "duration": "PT15M9S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "34893",
+                    "likeCount": "1351",
+                    "favoriteCount": "0",
+                    "commentCount": "37"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_51_TY4_-gaIG-s.json",
+    "video_url": "https://www.youtube.com/watch?v=TY4_-gaIG-s",
+    "video_title": "كيف تحولت أغنى دولة نفطية إلى الأفقر في العالم؟ | برنامج ما لم يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-09-30T17:59:38Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "282XuswwdNJY6wtEevhsMVPQuug",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "gdD5vMcM-IpKZnJ-dF2N_dN-F10",
+                "id": "TY4_-gaIG-s",
+                "contentDetails": {
+                    "duration": "PT12M18S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "44610",
+                    "likeCount": "1549",
+                    "favoriteCount": "0",
+                    "commentCount": "59"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_52_Grmy63iOthE.json",
+    "video_url": "https://www.youtube.com/watch?v=Grmy63iOthE",
+    "video_title": "كيف تحافظ على استقرارك النفسي؟ | بودكاست روايتهم 003 | د. محمد السويدان",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-09-26T20:46:39Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "R60CfBVe4np65wmnB1DMzjX27h8",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ZkfK5Y_Pj1jeVExTWgl3t7hFunw",
+                "id": "Grmy63iOthE",
+                "contentDetails": {
+                    "duration": "PT2H5M26S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "211061",
+                    "likeCount": "5123",
+                    "favoriteCount": "0",
+                    "commentCount": "166"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Health"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_53_ONU1TmLc9g4.json",
+    "video_url": "https://www.youtube.com/watch?v=ONU1TmLc9g4",
+    "video_title": "تاريخ المافيا الحقيقي ! كيف تدير المافيا جرائمها من جزيرة؟ | برنامج ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-09-23T19:52:59Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "0eFO62n9__p6P5UjU2g6DHVY0mk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "lvR8qrHwQcyVqDhPsHQrZQ-z-ts",
+                "id": "ONU1TmLc9g4",
+                "contentDetails": {
+                    "duration": "PT14M9S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "174084",
+                    "likeCount": "4289",
+                    "favoriteCount": "0",
+                    "commentCount": "76"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_54_bnnjeDrivEY.json",
+    "video_url": "https://www.youtube.com/watch?v=bnnjeDrivEY",
+    "video_title": "تاريخ الصراع بين العثمانيين والعرب | بودكاست روايتهم 002  | عواد الزايد",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-09-19T18:45:02Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "87TTIRTVGQltdgqSD3R9dEAOUR4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "VEYbV7TMYm1mlydLzBwPdSvydR4",
+                "id": "bnnjeDrivEY",
+                "contentDetails": {
+                    "duration": "PT1H24M49S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "1862690",
+                    "likeCount": "29818",
+                    "favoriteCount": "0",
+                    "commentCount": "6228"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Knowledge",
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_55_dlNjt7ZZhH0.json",
+    "video_url": "https://www.youtube.com/watch?v=dlNjt7ZZhH0",
+    "video_title": "كيف أختفى العرب الأصليين؟ | ما لمْ ُيروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-09-16T19:30:02Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "7qpuJc9Gm0NedDcG-Uu48EFjdPg",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "DWpwJbBOS61DeygZzB9pCEuidr4",
+                "id": "dlNjt7ZZhH0",
+                "contentDetails": {
+                    "duration": "PT12M5S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "45994",
+                    "likeCount": "1780",
+                    "favoriteCount": "0",
+                    "commentCount": "175"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_56_TkfCamZZjng.json",
+    "video_url": "https://www.youtube.com/watch?v=TkfCamZZjng",
+    "video_title": "الحياة مع عصابات المخدرات والشباب المدمنين  | بودكاست روايتهم 001  | د. عبدالحميد البلالي",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-09-12T18:00:17Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "9FGg7AMbmta1ZI72wR27HYRRrng",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "97JY-22AlCnJ2N6zV99fm6f85uk",
+                "id": "TkfCamZZjng",
+                "contentDetails": {
+                    "duration": "PT1H38M45S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "202843",
+                    "likeCount": "2717",
+                    "favoriteCount": "0",
+                    "commentCount": "126"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_57_h1QhvSZy-HM.json",
+    "video_url": "https://www.youtube.com/watch?v=h1QhvSZy-HM",
+    "video_title": "أخطر إحتلال لمكة من البرتغاليين 🇵🇹 | ما لمْ يُروَ",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-09-09T20:15:56Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "lnCwBX-nS3PRZT_mPASZD20tS9Y",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "xBZTXNLX2bmHn0RXMu_6qug5yl0",
+                "id": "h1QhvSZy-HM",
+                "contentDetails": {
+                    "duration": "PT14M",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "202114",
+                    "likeCount": "5614",
+                    "favoriteCount": "0",
+                    "commentCount": "739"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_58_qO6tFDRXzVA.json",
+    "video_url": "https://www.youtube.com/watch?v=qO6tFDRXzVA",
+    "video_title": "أسرار وخفايا اليوتيوب | ما هي مصادري الخاصة؟ (إجابات صريحة😌)",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-08-12T20:41:03Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "Es-XcfS1BYb7ZDpO-qg0UvRRFrc",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "z6q8kdyr9AHC-v3GR-9I98vaOHY",
+                "id": "qO6tFDRXzVA",
+                "contentDetails": {
+                    "duration": "PT14M51S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "8997",
+                    "likeCount": "802",
+                    "favoriteCount": "0",
+                    "commentCount": "97"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_59_49DARVw0014.json",
+    "video_url": "https://www.youtube.com/watch?v=49DARVw0014",
+    "video_title": "كيف عربي قاد الدولة العثمانية من داخل السجن؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-08-05T19:08:24Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "oHLAffEO-B9Xf2xA5sbh3EbU6p4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "e-1bMBGfVV2FSNCc49PthHA4uqA",
+                "id": "49DARVw0014",
+                "contentDetails": {
+                    "duration": "PT12M17S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "55064",
+                    "likeCount": "3543",
+                    "favoriteCount": "0",
+                    "commentCount": "225"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_60_87iTtWtD5jU.json",
+    "video_url": "https://www.youtube.com/watch?v=87iTtWtD5jU",
+    "video_title": "كيف جاسوس عربي أنقذ اليهود وأصبح شيخ فرنسا؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-07-29T17:48:25Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "AdUSFtUhA15pQbJRN8C8ckTqSM8",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "mopfEE_nJppYcYGrwCDgSf1xpSI",
+                "id": "87iTtWtD5jU",
+                "contentDetails": {
+                    "duration": "PT12M39S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "33688",
+                    "likeCount": "1171",
+                    "favoriteCount": "0",
+                    "commentCount": "107"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_61_napI-vhMuoY.json",
+    "video_url": "https://www.youtube.com/watch?v=napI-vhMuoY",
+    "video_title": "كيف أصبح الرسول الى الموت؟ حقيقة أوبنهايمر !",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-07-23T16:42:44Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "ypqhsjZIw5x4nDrJFAtyAhO1AW0",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "WgB70Bw2apLS3C0RY66Rd3YiTi8",
+                "id": "napI-vhMuoY",
+                "contentDetails": {
+                    "duration": "PT15M47S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "30199",
+                    "likeCount": "1279",
+                    "favoriteCount": "0",
+                    "commentCount": "43"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_62_nuZmY2Aumtc.json",
+    "video_url": "https://www.youtube.com/watch?v=nuZmY2Aumtc",
+    "video_title": "شبح صحراء العرب والجيش الإيطالي !",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-07-18T18:00:06Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "FqFPIaVFlKbbvNj22OdJCH8BC0w",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "4AyawazhhJAN8umET1wfrTVSG10",
+                "id": "nuZmY2Aumtc",
+                "contentDetails": {
+                    "duration": "PT16M25S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "58891",
+                    "likeCount": "2023",
+                    "favoriteCount": "0",
+                    "commentCount": "109"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_63_mXVkhSsKWI0.json",
+    "video_url": "https://www.youtube.com/watch?v=mXVkhSsKWI0",
+    "video_title": "كيف عصابة عربية نافست اسكوبار وتحدت الملك؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-07-12T19:25:27Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "E37xiQ2AJ3gBcAFqVx_BVS_mcek",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "TlzQ9MFztsKGqFLk7D6dQPBboZ4",
+                "id": "mXVkhSsKWI0",
+                "contentDetails": {
+                    "duration": "PT15M8S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "79482",
+                    "likeCount": "2511",
+                    "favoriteCount": "0",
+                    "commentCount": "105"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_64_mBj9eH75vYw.json",
+    "video_url": "https://www.youtube.com/watch?v=mBj9eH75vYw",
+    "video_title": "كيف جاسوس يهودي أصبح إمام العرب  ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-07-08T18:07:44Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "ytZ1vzbRyg37GPxYXBz40hdfKpA",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "3tjmUMVs5TQoHHABwhzPlJO027U",
+                "id": "mBj9eH75vYw",
+                "contentDetails": {
+                    "duration": "PT13M30S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "283832",
+                    "likeCount": "8610",
+                    "favoriteCount": "0",
+                    "commentCount": "673"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_65_zlWXnuEIvZo.json",
+    "video_url": "https://www.youtube.com/watch?v=zlWXnuEIvZo",
+    "video_title": "لماذا إستخباراتي روسي دخل مكة ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-07-01T18:31:28Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "sjKrgR0StstfkzIcMD2cmWsgNLk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "0I_IJcROjMfmg4j8oNbL2UdhEk4",
+                "id": "zlWXnuEIvZo",
+                "contentDetails": {
+                    "duration": "PT13M44S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "80885",
+                    "likeCount": "2746",
+                    "favoriteCount": "0",
+                    "commentCount": "106"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_66_u5XPczyWSmg.json",
+    "video_url": "https://www.youtube.com/watch?v=u5XPczyWSmg",
+    "video_title": "حقيقة أخطر عصابة قطاع طرق في الحج !",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-06-24T19:07:11Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "JgtkFrqZExMz8z_WlH4Hz67jifc",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "jjo8KbK2sKR7gPTS5vLIom2JIrI",
+                "id": "u5XPczyWSmg",
+                "contentDetails": {
+                    "duration": "PT17M",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "167159",
+                    "likeCount": "5665",
+                    "favoriteCount": "0",
+                    "commentCount": "135"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_67_y1EqMIuduvU.json",
+    "video_url": "https://www.youtube.com/watch?v=y1EqMIuduvU",
+    "video_title": "كيف أضاع فلسطين وغير خريطة العرب؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-06-20T17:58:34Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "QY5sUfUU25K7gyk-GmM7-Au_OFE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "sid4DKQRwdXhKZAuH1GuaxxY8lM",
+                "id": "y1EqMIuduvU",
+                "contentDetails": {
+                    "duration": "PT16M22S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "328240",
+                    "likeCount": "6990",
+                    "favoriteCount": "0",
+                    "commentCount": "1747"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_68_OOYtzitM9j0.json",
+    "video_url": "https://www.youtube.com/watch?v=OOYtzitM9j0",
+    "video_title": "كيف انتحل شخصية الطيار وسافر ل٢٦ دولة ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-06-17T19:29:35Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "QtLmd_kzqihFNv6ZU9Ezrt5si68",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "U3IOlZ9tjqgQFUKVOZrCi3GcmNI",
+                "id": "OOYtzitM9j0",
+                "contentDetails": {
+                    "duration": "PT18M25S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "49066",
+                    "likeCount": "1448",
+                    "favoriteCount": "0",
+                    "commentCount": "46"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_69_qlCMAcON3Rs.json",
+    "video_url": "https://www.youtube.com/watch?v=qlCMAcON3Rs",
+    "video_title": "البحث عن ابنه نواف في أمريكا، شارك بالحرب الأمريكية الفيتنامية 😳! (قصة خليل #٢)",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-06-14T16:52:45Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "LqIXf-RUX1A0fn6Uc1jdfgKJ5m8",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "b2DTm7noBz2nD7IzO_uLaGS9xCQ",
+                "id": "qlCMAcON3Rs",
+                "contentDetails": {
+                    "duration": "PT14M38S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "31178",
+                    "likeCount": "1492",
+                    "favoriteCount": "0",
+                    "commentCount": "73"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_70_D4pvxfkmyGY.json",
+    "video_url": "https://www.youtube.com/watch?v=D4pvxfkmyGY",
+    "video_title": "سعودي تزوج أمريكية، ثم خاض في رحلة أغرب من الخيال!😨 (قصة خليل #١)",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-06-10T16:44:26Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "lpBzOGSsRxwH_Abv4iXwq77T7xE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "51jsm3ppqS9nJwX-9lxKXtw6n6c",
+                "id": "D4pvxfkmyGY",
+                "contentDetails": {
+                    "duration": "PT16M52S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "52950",
+                    "likeCount": "2074",
+                    "favoriteCount": "0",
+                    "commentCount": "112"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_71_-kcR3cTd51A.json",
+    "video_url": "https://www.youtube.com/watch?v=-kcR3cTd51A",
+    "video_title": "ماذا حصل أثناء الحرب البحرية بين الخليج وبريطانيا؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-06-03T17:28:58Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "SHVc3-CFG7jnSlWNCSDQpyBGPb4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "huGbvmJ9Pi_n-Wzn-fogdOLEV9w",
+                "id": "-kcR3cTd51A",
+                "contentDetails": {
+                    "duration": "PT15M53S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "48898",
+                    "likeCount": "2038",
+                    "favoriteCount": "0",
+                    "commentCount": "228"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_72_Cyh-hheMKB4.json",
+    "video_url": "https://www.youtube.com/watch?v=Cyh-hheMKB4",
+    "video_title": "أغرب جريمة في التيك توك بسبب الشهرة !",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-05-28T17:22:30Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "cG2dnL4ynT5nO-PWgBkWPObn-44",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "TGmDGitwTi4ISThTNaXfKx5ijmM",
+                "id": "Cyh-hheMKB4",
+                "contentDetails": {
+                    "duration": "PT15M40S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "30385",
+                    "likeCount": "1307",
+                    "favoriteCount": "0",
+                    "commentCount": "41"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_73_mZj41oWM05g.json",
+    "video_url": "https://www.youtube.com/watch?v=mZj41oWM05g",
+    "video_title": "كيف نفذ جرائمه عبر تويتر ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-05-20T20:37:31Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "_h11WDDjXw7XK3t4t9gBCrjpnM4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "L6kpPO4-wWxkzMGb7WPVWLsEEeE",
+                "id": "mZj41oWM05g",
+                "contentDetails": {
+                    "duration": "PT15M50S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "38432",
+                    "likeCount": "1723",
+                    "favoriteCount": "0",
+                    "commentCount": "33"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_74_ub6F8Kco6jE.json",
+    "video_url": "https://www.youtube.com/watch?v=ub6F8Kco6jE",
+    "video_title": "العالم المظلم من كوريا الجنوبية 🇰🇷",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-05-13T18:50:17Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "HV-u7jXtVRJ0mA2KPU1JkhUAnW4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "pA3SwqNyFkMny8kn1IIsd9jrHb8",
+                "id": "ub6F8Kco6jE",
+                "contentDetails": {
+                    "duration": "PT12M46S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "33400",
+                    "likeCount": "1708",
+                    "favoriteCount": "0",
+                    "commentCount": "74"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Pop_music",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_75_9lYvjQfhylg.json",
+    "video_url": "https://www.youtube.com/watch?v=9lYvjQfhylg",
+    "video_title": "كيف حصل اغتيال الدبلوماسيين السعوديين في تايلند ؟ 🇸🇦",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-04-02T21:23:43Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "_qI0PLrSWB540M5aIM0gayGlW8w",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "_Dw-qIADeVmI46mh4fVHXhDJGO0",
+                "id": "9lYvjQfhylg",
+                "contentDetails": {
+                    "duration": "PT16M41S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "227345",
+                    "likeCount": "6513",
+                    "favoriteCount": "0",
+                    "commentCount": "194"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_76_xC9TiXYbOFo.json",
+    "video_url": "https://www.youtube.com/watch?v=xC9TiXYbOFo",
+    "video_title": "اختفاء القبيلة الأكثر دموية عبر التاريخ !",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-03-25T19:01:35Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "kWqzF68SxbSByH6AnnqkOyy8V0o",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "i1Yhv7DyYv-7ASQQAxaVXda7gqo",
+                "id": "xC9TiXYbOFo",
+                "contentDetails": {
+                    "duration": "PT13M10S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "48313",
+                    "likeCount": "2296",
+                    "favoriteCount": "0",
+                    "commentCount": "76"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_77_5zNXq63UJzs.json",
+    "video_url": "https://www.youtube.com/watch?v=5zNXq63UJzs",
+    "video_title": "حقيقة جحيم الإنترنت المظلم !🔞",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-03-18T19:00:17Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "NvriTb1wcAOKHZoIYK6Tjiq05BA",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "aeiBOXqe-uUwvneoeA9TqHqw9tM",
+                "id": "5zNXq63UJzs",
+                "contentDetails": {
+                    "duration": "PT12M26S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "50143",
+                    "likeCount": "2179",
+                    "favoriteCount": "0",
+                    "commentCount": "79"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_78_shUQpjtFNeg.json",
+    "video_url": "https://www.youtube.com/watch?v=shUQpjtFNeg",
+    "video_title": "أطول عملية اختطاف طائرة في العالم !",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-03-11T18:31:11Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "pWZsURLDG-jHeAG4WSy1_cU3Gvc",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "qzbSffuGtjZbZ8FI5k21IUbXDS0",
+                "id": "shUQpjtFNeg",
+                "contentDetails": {
+                    "duration": "PT15M36S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "132867",
+                    "likeCount": "4313",
+                    "favoriteCount": "0",
+                    "commentCount": "171"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_79_LmEESKKpyTU.json",
+    "video_url": "https://www.youtube.com/watch?v=LmEESKKpyTU",
+    "video_title": "كيف أصبحت أغنى وأقوى عصابة في العالم ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-03-04T18:00:08Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "W3wjznw7WHJrsbWaDk3Cgkl8i1M",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "rQ_5m4xSZgMRzsR2Z98YPL1hwjU",
+                "id": "LmEESKKpyTU",
+                "contentDetails": {
+                    "duration": "PT15M28S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "170447",
+                    "likeCount": "5086",
+                    "favoriteCount": "0",
+                    "commentCount": "109"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_80_DlDyrZ6_RkI.json",
+    "video_url": "https://www.youtube.com/watch?v=DlDyrZ6_RkI",
+    "video_title": "ماذا حصل في الجزيرة أثناء حرب الخليج ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-02-25T20:53:28Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "OAeLB3o_4UFjQSxnQFZrVa6nAls",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "VJh-5ipJfPfrkhOiFlxdYTAD0Pw",
+                "id": "DlDyrZ6_RkI",
+                "contentDetails": {
+                    "duration": "PT13M31S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "126621",
+                    "likeCount": "4182",
+                    "favoriteCount": "0",
+                    "commentCount": "499"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_81_TGLyhMJ8wpM.json",
+    "video_url": "https://www.youtube.com/watch?v=TGLyhMJ8wpM",
+    "video_title": "القصة الكاملة لمجزرة قصر الرحاب !",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-02-11T17:47:36Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "Z4NGA3PeP5pbcc6_SodHQyefSAk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "45Iu4C3jJUM7S0pt9nN6y9N-4es",
+                "id": "TGLyhMJ8wpM",
+                "contentDetails": {
+                    "duration": "PT18M26S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "148876",
+                    "likeCount": "5422",
+                    "favoriteCount": "0",
+                    "commentCount": "500"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_82_9ZM2A9MESLQ.json",
+    "video_url": "https://www.youtube.com/watch?v=9ZM2A9MESLQ",
+    "video_title": "ماذا يحصل داخل أغرب السجون العربية ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-02-04T18:14:49Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "x8BzhywEg2Nj8FR3OsNQ2wl-31o",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "YDexThxoYTjY0-VICKje1dRoW1Y",
+                "id": "9ZM2A9MESLQ",
+                "contentDetails": {
+                    "duration": "PT13M57S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "136837",
+                    "likeCount": "5231",
+                    "favoriteCount": "0",
+                    "commentCount": "164"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_83_DmFozL-dp40.json",
+    "video_url": "https://www.youtube.com/watch?v=DmFozL-dp40",
+    "video_title": "كيف استطاع عربي ان يحكم أخطر دولة في العالم ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-01-28T18:00:07Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "yigDje8DrLle52-HTeHnl_JTuWA",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "bw_lANXzTyZ7r_CR_C7XPWpSsvo",
+                "id": "DmFozL-dp40",
+                "contentDetails": {
+                    "duration": "PT14M43S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "542757",
+                    "likeCount": "12615",
+                    "favoriteCount": "0",
+                    "commentCount": "308"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_84_3rOrSUO91Ws.json",
+    "video_url": "https://www.youtube.com/watch?v=3rOrSUO91Ws",
+    "video_title": "كيف ستختفي مدن عربية من خريطة العالم ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-01-21T17:00:03Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "STLRFUNhDS1npWZBhYlWVXgv3WQ",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ug3z1Axdb6JSqSUWeVTDV38LlkY",
+                "id": "3rOrSUO91Ws",
+                "contentDetails": {
+                    "duration": "PT14M56S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "40210",
+                    "likeCount": "1787",
+                    "favoriteCount": "0",
+                    "commentCount": "89"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_85_OacgPWbwF7w.json",
+    "video_url": "https://www.youtube.com/watch?v=OacgPWbwF7w",
+    "video_title": "حقيقة شمس المعارف الكبرى كأخطر كتاب عند العرب !",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-01-14T18:30:14Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "TxRo83iUzk_D6jD3xO5nKKsCfnQ",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "F04-wxdC21kSG9PeLzMV0rVsIck",
+                "id": "OacgPWbwF7w",
+                "contentDetails": {
+                    "duration": "PT15M1S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "46273",
+                    "likeCount": "1751",
+                    "favoriteCount": "0",
+                    "commentCount": "80"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_86_nw6_ON_3fP0.json",
+    "video_url": "https://www.youtube.com/watch?v=nw6_ON_3fP0",
+    "video_title": "كيف جاسوس بريطاني أصبح شيخ عربي ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2023-01-08T15:58:56Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "EOAVDCjFs6g03Rp2a9T3BKywjo8",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "NhAEfJ-wE1vlaeWeOzZNnFWtdP4",
+                "id": "nw6_ON_3fP0",
+                "contentDetails": {
+                    "duration": "PT22M50S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "198871",
+                    "likeCount": "4941",
+                    "favoriteCount": "0",
+                    "commentCount": "270"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_87__kr5MdeWw9Y.json",
+    "video_url": "https://www.youtube.com/watch?v=_kr5MdeWw9Y",
+    "video_title": "ما هي حقيقة إحتلال آخر مدينة عربية ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2022-12-13T15:53:34Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "7p6jhc7Z-Zitg1txssSyk2t-4GU",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "pYFnl94kUXNglwLhuzDCMOAxSiE",
+                "id": "_kr5MdeWw9Y",
+                "contentDetails": {
+                    "duration": "PT14M4S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "33578",
+                    "likeCount": "1485",
+                    "favoriteCount": "0",
+                    "commentCount": "54"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_88_eFplMbAHWUI.json",
+    "video_url": "https://www.youtube.com/watch?v=eFplMbAHWUI",
+    "video_title": "لماذا تم اختطاف واستعباد بشر في الخليج ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2022-12-08T11:08:16Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "--jb2ZyNZhhXNAuLfUDtW3_N51Y",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "QEhZfmGbSg8FL_a436fta0EJg0U",
+                "id": "eFplMbAHWUI",
+                "contentDetails": {
+                    "duration": "PT13M3S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "52537",
+                    "likeCount": "2115",
+                    "favoriteCount": "0",
+                    "commentCount": "520"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_89_jFx9R7tocrk.json",
+    "video_url": "https://www.youtube.com/watch?v=jFx9R7tocrk",
+    "video_title": "كيف أصبح العرب أشرار عند العالم ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2022-11-29T16:58:39Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "V0PcLKOma2jrz9GAV-MIanvDq0k",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "olHTBX1QWyJbCqBPQhTpLhk97gY",
+                "id": "jFx9R7tocrk",
+                "contentDetails": {
+                    "duration": "PT13M8S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "32781",
+                    "likeCount": "1575",
+                    "favoriteCount": "0",
+                    "commentCount": "68"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Entertainment"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_90_HPBASun2Mww.json",
+    "video_url": "https://www.youtube.com/watch?v=HPBASun2Mww",
+    "video_title": "رسالة حاكم أدت إلى الفوز بكأس العالم !",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2022-11-22T18:21:09Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "YsLKrq6sIQcb21wBg35Z1vTSssM",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "O8fw8JzD09fCVUxZnDWqK8HnG-E",
+                "id": "HPBASun2Mww",
+                "contentDetails": {
+                    "duration": "PT13M4S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "24500",
+                    "likeCount": "994",
+                    "favoriteCount": "0",
+                    "commentCount": "39"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Association_football"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_91_CFfRVnensk8.json",
+    "video_url": "https://www.youtube.com/watch?v=CFfRVnensk8",
+    "video_title": "ما هي حقيقة المسيحيين في الخليج ؟",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2022-11-18T19:45:39Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "j8Wp0OBZCGQQM1ja31nadSlwR3s",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "urs8C2ntuZfalvxSZPW2x0zVFo0",
+                "id": "CFfRVnensk8",
+                "contentDetails": {
+                    "duration": "PT18M6S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "106171",
+                    "likeCount": "4105",
+                    "favoriteCount": "0",
+                    "commentCount": "731"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "sayeralotaibi",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/sayeralotaibi/json/sayeralotaibi_92_8JPFqRXuKEs.json",
+    "video_url": "https://www.youtube.com/watch?v=8JPFqRXuKEs",
+    "video_title": "أسرار تعليم حكام المستقبل لدول الخليج !",
+    "channelTitle": "Sayer Alotaibi",
+    "publishedAt": "2022-11-08T17:00:17Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "AX8WR6FNWY3xmsjP6dohPuG1Gp4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "uCtMc3u_ra7bJDtkKvMQV1kufUg",
+                "id": "8JPFqRXuKEs",
+                "contentDetails": {
+                    "duration": "PT12M31S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "74593",
+                    "likeCount": "2280",
+                    "favoriteCount": "0",
+                    "commentCount": "172"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}

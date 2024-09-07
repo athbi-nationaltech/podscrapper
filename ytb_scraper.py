@@ -215,6 +215,7 @@ if __name__ == "__main__":
                         "video_title": video["Title"],
                         "channelTitle": video["channelTitle"],
                         "publishedAt": video["publishedAt"],
+                        "videoInfo": video["videoInfo"],
                     },
                     file,
                     ensure_ascii=False,
