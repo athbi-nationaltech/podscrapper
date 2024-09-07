@@ -173,14 +173,19 @@ newDirectory = "Data/" + directory2 + "/raw"
 counter = 1
 try:
     for filename in os.listdir(newDirectory):
-        generate(directory2,filename)
-        oldname = os.path.join(newDirectory, filename)
-        newname = filename.replace(".",".processed.")
-        newname = os.path.join(newDirectory, newname)
-        os.rename(oldname, newname) 
-        print("Done:: ", counter)
-        print("----------------------------------")
-        counter += 1
+        if ".processed." in filename:
+            print("Processed :: ", filename)
+            print("----------------------------------")
+            continue
+        else:
+            # generate(directory2,filename)
+            # oldname = os.path.join(newDirectory, filename)
+            # newname = filename.replace(".",".processed.")
+            # newname = os.path.join(newDirectory, newname)
+            # os.rename(oldname, newname) 
+            print("Done :: ", counter, " " , filename)
+            print("----------------------------------")
+            counter += 1
         # if counter > 10:
         #     break
 except FileNotFoundError:
