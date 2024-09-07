@@ -178,11 +178,11 @@ try:
             print("----------------------------------")
             continue
         else:
-            # generate(directory2,filename)
-            # oldname = os.path.join(newDirectory, filename)
-            # newname = filename.replace(".",".processed.")
-            # newname = os.path.join(newDirectory, newname)
-            # os.rename(oldname, newname) 
+            generate(directory2,filename)
+            oldname = os.path.join(newDirectory, filename)
+            newname = filename.replace(".",".processed.")
+            newname = os.path.join(newDirectory, newname)
+            os.rename(oldname, newname) 
             print("Done :: ", counter, " " , filename)
             print("----------------------------------")
             counter += 1
