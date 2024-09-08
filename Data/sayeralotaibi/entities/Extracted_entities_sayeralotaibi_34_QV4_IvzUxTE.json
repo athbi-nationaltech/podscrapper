@@ -1,0 +1,214 @@
+{
+    "Entities": [
+        {
+            "name": "صلاح اليافعي",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "مدرب في التربية، تمت استضافته في حلقة نقاشية للحديث عن تحديات التربية.\n\n\n\n"
+        },
+        {
+            "name": "ساير العتيبي",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "مقدم برنامج أو بودكاست، أجرى مقابلة مع صلاح اليافعي حول تحديات التربية.\n\n\n\n"
+        },
+        {
+            "name": "فرانسس جنسن",
+            "original_text": "فرانسس جنسن",
+            "type": "PERSON",
+            "description": "مؤلفة كتاب \"دماغ المراهقين\"، الذي يتناول سيكولوجية المراهقين وكيفية التعامل معهم.\n\n\n\n"
+        },
+        {
+            "name": "ستيفن كافي",
+            "original_text": "ستيفن كافي",
+            "type": "PERSON",
+            "description": "مؤلف كتاب \"العادات السبع للأسر الأكثر فعالية\"، الذي يقدم إرشادات لبناء أسر مترابطة وفعالة.\n\n\n\n"
+        },
+        {
+            "name": "جون لوك",
+            "original_text": "جون لوك",
+            "type": "PERSON",
+            "description": "فيلسوف، شبه الأطفال بالصفحات البيضاء التي يمكن تشكيلها من خلال التربية.\n\n\n\n"
+        },
+        {
+            "name": "بول بلوم",
+            "original_text": "بول بلوم",
+            "type": "PERSON",
+            "description": "باحث في جامعة يل، أجرى دراسة على 600 طفل لدراسة قدرتهم على تمييز الخير من الشر.\n\n\n\n"
+        },
+        {
+            "name": "محمد الدويش",
+            "original_text": "محمد الدويش",
+            "type": "PERSON",
+            "description": "دكتور، ألقى محاضرة بعنوان \"المراهق الوجه الآخر\"، تناول فيها دراسات حول استعداد المراهقين للالتزام والخير.\n\n\n\n"
+        },
+        {
+            "name": "الحرب العالمية الأولى",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "حدث تاريخي هام، شهد تغيرات في نظريات التربية.\n\n\n\n"
+        },
+        {
+            "name": "الحرب العالمية الثانية",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "حدث تاريخي هام، شهد تغيرات في نظريات التربية.\n\n\n\n"
+        },
+        {
+            "name": "الكويت",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في الخليج العربي.\n\n\n\n"
+        },
+        {
+            "name": "دول الخليج",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مجموعة من الدول العربية تقع في منطقة الخليج العربي.\n\n\n\n"
+        },
+        {
+            "name": "فلسطين",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية محتلة، تعتبر قضيتها قضية مركزية للأمة العربية والإسلامية.\n\n\n\n"
+        },
+        {
+            "name": "غزة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة فلسطينية تقع على ساحل البحر الأبيض المتوسط، وتعتبر جزءًا من الأراضي الفلسطينية المحتلة.\n\n\n\n"
+        },
+        {
+            "name": "القدس",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة مقدسة عند المسلمين والمسيحيين واليهود، وتعتبر جزءًا من الأراضي الفلسطينية المحتلة.\n\n\n\n"
+        },
+        {
+            "name": "القرآن الكريم",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "كتاب الله المقدس عند المسلمين، ويحتوي على آيات الله وأحكامه وتعاليمه.\n\n\n\n"
+        },
+        {
+            "name": "السنة النبوية",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "أقوال وأفعال وتقارير عن النبي محمد صلى الله عليه وسلم، وتعتبر المصدر الثاني للتشريع الإسلامي بعد القرآن الكريم.\n\n\n\n"
+        },
+        {
+            "name": "دماغ المراهقين",
+            "original_text": "دماغ المراهقين",
+            "type": "WORK_OF_ART",
+            "description": "كتاب من تأليف فرانسس جنسن، يتناول سيكولوجية المراهقين وكيفية التعامل معهم.\n\n\n\n"
+        },
+        {
+            "name": "العادات السبع للأسر الأكثر فعالية",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "كتاب من تأليف ستيفن كافي، يقدم إرشادات لبناء أسر مترابطة وفعالة.\n\n\n\n"
+        },
+        {
+            "name": "قوة الانطوائيين",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "كتاب يتحدث عن مميزات وصفات الأشخاص الانطوائيين.\n\n\n\n"
+        },
+        {
+            "name": "الكتاب الذي اتمنى ان يقراه والداي",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "كتاب يتناول موضوع بناء العلاقة بين الآباء والأبناء.\n\n\n\n"
+        },
+        {
+            "name": "المبادئ الخمسة للتربية",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "كتاب حديث يتناول مبادئ هامة في تربية الأطفال.\n\n\n\n"
+        },
+        {
+            "name": "الهشاشة النفسية",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "كتاب يتناول موضوع الهشاشة النفسية عند الشباب.\n\n\n\n"
+        },
+        {
+            "name": "شيفرة الموهبة",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "كتاب يتناول موضوع الموهبة وكيفية اكتشافها وصقلها.\n\n\n\n"
+        },
+        {
+            "name": "البوصلة القرآنية",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "كتاب من تأليف الدكتور أحمد خير العمري.\n\n\n\n"
+        },
+        {
+            "name": "محمد",
+            "original_text": null,
+            "type": "RELIGIOUS_FIGURE",
+            "description": "نبي الإسلام، صلى الله عليه وسلم.\n\n\n\n"
+        },
+        {
+            "name": "الله",
+            "original_text": null,
+            "type": "RELIGIOUS_FIGURE",
+            "description": "إله الإسلام، سبحانه وتعالى.\n\n\n\n"
+        },
+        {
+            "name": "سليمان",
+            "original_text": null,
+            "type": "RELIGIOUS_FIGURE",
+            "description": "نبي من أنبياء الله، ورد ذكره في القرآن الكريم.\n\n\n\n"
+        },
+        {
+            "name": "إبراهيم",
+            "original_text": null,
+            "type": "RELIGIOUS_FIGURE",
+            "description": "نبي من أنبياء الله، ورد ذكره في القرآن الكريم.\n\n\n\n"
+        },
+        {
+            "name": "آدم",
+            "original_text": null,
+            "type": "RELIGIOUS_FIGURE",
+            "description": "أول البشر، خلقهم الله من طين.\n\n\n\n"
+        },
+        {
+            "name": "عيسى",
+            "original_text": null,
+            "type": "RELIGIOUS_FIGURE",
+            "description": "نبي من أنبياء الله، ورد ذكره في القرآن الكريم.\n\n\n\n"
+        },
+        {
+            "name": "يوتيوب",
+            "original_text": null,
+            "type": "PRODUCT",
+            "description": "منصة مشاركة فيديوهات.\n\n\n\n"
+        },
+        {
+            "name": "واتساب",
+            "original_text": null,
+            "type": "PRODUCT",
+            "description": "تطبيق للتواصل الفوري.\n\n\n\n"
+        },
+        {
+            "name": "بلاي ستيشن",
+            "original_text": null,
+            "type": "PRODUCT",
+            "description": "منصة ألعاب فيديو.\n\n\n\n"
+        },
+        {
+            "name": "أيفون",
+            "original_text": null,
+            "type": "PRODUCT",
+            "description": "هاتف ذكي.\n\n\n\n"
+        },
+        {
+            "name": "أيباد",
+            "original_text": null,
+            "type": "PRODUCT",
+            "description": "جهاز لوحي.\n\n\n\n"
+        }
+    ]
+}

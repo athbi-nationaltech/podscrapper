@@ -1,0 +1,388 @@
+{
+    "Entities": [
+        {
+            "name": "محمد سويدان",
+            "original_text": "Mohamed Sweidan",
+            "type": "PERSON",
+            "description": "طبيب نفسي، تحدث عن أعراض الاكتئاب، ويبدو أنه شخصية معروفة على انستغرام. \n\n\n\n"
+        },
+        {
+            "name": "محمود الخضر",
+            "original_text": "Mahmoud Al-Khader",
+            "type": "PERSON",
+            "description": "مغني ذو شخصية ناجحة، يركز على الجانب الإنساني والقيمي والإيجابي في أغانيه. \n\n\n\n"
+        },
+        {
+            "name": "فيصل العقل",
+            "original_text": "Faisal Al-Aql",
+            "type": "PERSON",
+            "description": "مذيع بودكاست \"بدون وقت\"، أجرى مقابلة مع محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "بدر",
+            "original_text": "Badr",
+            "type": "PERSON",
+            "description": "شخص التقط صورة مع فيصل العقل ومحمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "أسوان",
+            "original_text": "Aswan",
+            "type": "LOCATION",
+            "description": "مدينة تقع في جنوب مصر، تم ذكرها في سياق غير واضح. \n\n\n\n"
+        },
+        {
+            "name": "انستغرام",
+            "original_text": "Instagram",
+            "type": "MEDIA",
+            "description": "منصة تواصل اجتماعي لمشاركة الصور والفيديوهات، تم ذكرها في سياق متابعة محمد سويدان. \n\n\n\n"
+        },
+        {
+            "name": "اليوتيوب",
+            "original_text": "YouTube",
+            "type": "MEDIA",
+            "description": "منصة لمشاركة الفيديوهات، تم ذكرها في سياق نزول أعمال محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "أوكنج",
+            "original_text": "Awakening",
+            "type": "ORGANIZATION",
+            "description": "يبدو أنها شركة إنتاج فني، تعاونت مع محمود الخضر في بداية مشواره. \n\n\n\n"
+        },
+        {
+            "name": "فيفو",
+            "original_text": "Vivo",
+            "type": "ORGANIZATION",
+            "description": "شركة هواتف ذكية، تم ذكر شعارها في سياق غير واضح. \n\n\n\n"
+        },
+        {
+            "name": "أدوبي",
+            "original_text": "Adobe",
+            "type": "ORGANIZATION",
+            "description": "شركة برمجيات، تم ذكر برنامجها \"أدوبيشن\" في سياق هندسة الصوت. \n\n\n\n"
+        },
+        {
+            "name": "أحمد العجيل",
+            "original_text": "Ahmed Al-Ajil",
+            "type": "PERSON",
+            "description": "شخص ساعد محمود الخضر في الحصول على برنامج \"أدوبيشن\". \n\n\n\n"
+        },
+        {
+            "name": "سلمان الملا",
+            "original_text": "Salman Al-Mulla",
+            "type": "PERSON",
+            "description": "صديق محمود الخضر، دخل به عالم هندسة الصوت. \n\n\n\n"
+        },
+        {
+            "name": "سامي يوسف",
+            "original_text": "Sami Yusuf",
+            "type": "PERSON",
+            "description": "فنان ديني بريطاني من أصل أذربيجاني، أقام حفلة موسيقية أثرت في نظرة محمود الخضر للفن. \n\n\n\n"
+        },
+        {
+            "name": "هلا فبراير",
+            "original_text": "Hala February",
+            "type": "EVENT",
+            "description": "مهرجان يقام في الكويت، تم ذكر لجنة ثقافية فيه برئاسة \"شروق صانع\". \n\n\n\n"
+        },
+        {
+            "name": "شروق صانع",
+            "original_text": "Shurooq Sanie",
+            "type": "PERSON",
+            "description": "مسؤولة عن اللجنة الثقافية في مهرجان \"هلا فبراير\". \n\n\n\n"
+        },
+        {
+            "name": "عمر حوطي",
+            "original_text": "Omar Hawti",
+            "type": "PERSON",
+            "description": "صديق محمود الخضر، ساعده في تنظيم حفلة سامي يوسف. \n\n\n\n"
+        },
+        {
+            "name": "مارينا اف ام",
+            "original_text": "Marina FM",
+            "type": "ORGANIZATION",
+            "description": "محطة إذاعية، تم ذكرها في سياق برنامج إذاعي للدكتور ناصر المجيد. \n\n\n\n"
+        },
+        {
+            "name": "ناصر المجيد",
+            "original_text": "Nasser Al-Majeed",
+            "type": "PERSON",
+            "description": "طبيب، لديه برنامج إذاعي على محطة \"مارينا اف ام\". \n\n\n\n"
+        },
+        {
+            "name": "جامعة الكويت",
+            "original_text": "Kuwait University",
+            "type": "ORGANIZATION",
+            "description": "جامعة في الكويت، شارك فيها محمود الخضر في الانتخابات الطلابية. \n\n\n\n"
+        },
+        {
+            "name": "ريال مدريد",
+            "original_text": "Real Madrid",
+            "type": "ORGANIZATION",
+            "description": "فريق كرة قدم إسباني، تم ذكره في سياق التعصب الرياضي. \n\n\n\n"
+        },
+        {
+            "name": "برشلونة",
+            "original_text": "Barcelona",
+            "type": "ORGANIZATION",
+            "description": "فريق كرة قدم إسباني، تم ذكره في سياق التعصب الرياضي. \n\n\n\n"
+        },
+        {
+            "name": "محمد الوزان",
+            "original_text": "Mohammed Al-Wazan",
+            "type": "PERSON",
+            "description": "صديق محمود الخضر، تخرج من \"التكامل\"، وطلب منه أغنية. \n\n\n\n"
+        },
+        {
+            "name": "مدرسة الرؤية",
+            "original_text": "Al-Ru'ya School",
+            "type": "ORGANIZATION",
+            "description": "مدرسة درست فيها \"المليرة\"، وطلبت أغنية من محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "ناصر",
+            "original_text": "Nasser",
+            "type": "PERSON",
+            "description": "كاتب أغنية \"مدرسة الرؤية\". \n\n\n\n"
+        },
+        {
+            "name": "دار الفرح",
+            "original_text": "Dar Al-Farah",
+            "type": "ORGANIZATION",
+            "description": "جهة تعاونت مع محمود الخضر في إنتاج أغنية. \n\n\n\n"
+        },
+        {
+            "name": "جهاد",
+            "original_text": "Jihad",
+            "type": "PERSON",
+            "description": "شخص تعاون مع محمود الخضر في إنتاج أغنية. \n\n\n\n"
+        },
+        {
+            "name": "ام بي سي",
+            "original_text": "MBC",
+            "type": "ORGANIZATION",
+            "description": "شبكة قنوات عربية، تم ذكر برنامج \"خواطر\" الذي يبث عليها. \n\n\n\n"
+        },
+        {
+            "name": "صلاح الزدجالي",
+            "original_text": "Salah Al-Zadjali",
+            "type": "PERSON",
+            "description": "مغني عماني، أهدى أغنية \"لغات العالم\" لمحمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "حميد البلوشي",
+            "original_text": "Hameed Al-Baloushi",
+            "type": "PERSON",
+            "description": "شاعر، تعاون مع صلاح الزدجالي في أغنية \"لغات العالم\". \n\n\n\n"
+        },
+        {
+            "name": "سيف فاضل",
+            "original_text": "Saif Fadil",
+            "type": "PERSON",
+            "description": "فنان إماراتي، شريك محمود الخضر في ألبوم \"أصير أحسن\". \n\n\n\n"
+        },
+        {
+            "name": "راشد الماجد",
+            "original_text": "Rashid Al-Majid",
+            "type": "PERSON",
+            "description": "مغني، تم ذكر ألبومه في سياق مقارنة نجاحه بألبوم محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "محمد عبده",
+            "original_text": "Mohammed Abdo",
+            "type": "PERSON",
+            "description": "مغني، تم ذكر ألبومه في سياق مقارنة نجاحه بألبوم محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "بلقيس",
+            "original_text": "Balqees",
+            "type": "PERSON",
+            "description": "مغنية، تم ذكر ألبومها في سياق مقارنة نجاحه بألبوم محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "عبد المجيد",
+            "original_text": "Abdul Majeed",
+            "type": "PERSON",
+            "description": "مغني، تم ذكر ألبومه في سياق مقارنة نجاحه بألبوم محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "آيتونز",
+            "original_text": "iTunes",
+            "type": "PRODUCT",
+            "description": "متجر إلكتروني للموسيقى، تم ذكره في سياق إطلاق ألبوم محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "ماليزيا",
+            "original_text": "Malaysia",
+            "type": "LOCATION",
+            "description": "دولة في جنوب شرق آسيا، حققت فيها أغنية \"كن أنت\" لمحمود الخضر نجاحًا كبيرًا. \n\n\n\n"
+        },
+        {
+            "name": "اندونيسيا",
+            "original_text": "Indonesia",
+            "type": "LOCATION",
+            "description": "دولة في جنوب شرق آسيا، حققت فيها أغنية \"كن أنت\" لمحمود الخضر نجاحًا كبيرًا. \n\n\n\n"
+        },
+        {
+            "name": "دب سماش",
+            "original_text": "Dubsmash",
+            "type": "MEDIA",
+            "description": "تطبيق فيديوهات قصيرة، انتشر عليه مقطع من أغنية \"كن أنت\" لمحمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "سوني",
+            "original_text": "Sony",
+            "type": "ORGANIZATION",
+            "description": "شركة إلكترونيات، تم ذكر فرعها \"سوني ميوزك ماليزيا\" في سياق التعاقد مع محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "فرانس",
+            "original_text": "France",
+            "type": "LOCATION",
+            "description": "دولة أوروبية، تم ذكرها في سياق غير واضح. \n\n\n\n"
+        },
+        {
+            "name": "أمريكا",
+            "original_text": "America",
+            "type": "LOCATION",
+            "description": "قارة، تم ذكرها في سياق غير واضح. \n\n\n\n"
+        },
+        {
+            "name": "باريس",
+            "original_text": "Paris",
+            "type": "LOCATION",
+            "description": "مدينة فرنسية، تم ذكرها في سياق غير واضح. \n\n\n\n"
+        },
+        {
+            "name": "ستاربكس",
+            "original_text": "Starbucks",
+            "type": "ORGANIZATION",
+            "description": "سلسلة مقاهي عالمية، تم ذكرها في سياق غير واضح. \n\n\n\n"
+        },
+        {
+            "name": "المعلاوي",
+            "original_text": "Al-Mu allawi",
+            "type": "PERSON",
+            "description": "شخصية غير معروفة، تم ذكرها في سياق تفاعل الجمهور مع الفنانين. \n\n\n\n"
+        },
+        {
+            "name": "أحمد الشقيري",
+            "original_text": "Ahmed Al-Shugairi",
+            "type": "PERSON",
+            "description": "إعلامي، تم ذكره في سياق مقارنة تطوره الفني بتطور محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "ميلان",
+            "original_text": "Milan",
+            "type": "LOCATION",
+            "description": "مدينة إيطالية، تم ذكرها في سياق سفر محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "أستراليا",
+            "original_text": "Australia",
+            "type": "LOCATION",
+            "description": "قارة، تم ذكرها في سياق حفلات محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "ماهر زين",
+            "original_text": "Maher Zain",
+            "type": "PERSON",
+            "description": "مغني، تم ذكره في سياق غير واضح. \n\n\n\n"
+        },
+        {
+            "name": "تركيا",
+            "type": "LOCATION",
+            "original_text": "Turkey",
+            "description": "دولة، تعاون فيها محمود الخضر مع موسيقيين ومخرجين، وأنتج فيها بعض أغانيه. \n\n\n\n"
+        },
+        {
+            "name": "حسن كيوت",
+            "original_text": "Hassan Cute",
+            "type": "PERSON",
+            "description": "مخرج، أخرج فيديو كليب أغنية \"كن أنت\" لمحمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "فيروز",
+            "original_text": "Fairuz",
+            "type": "PERSON",
+            "description": "مغنية لبنانية، تم ذكرها في سياق مقارنة العلاقة الفنية بين محمود الخضر وسيف فاضل بعلاقتها مع الرحابنة. \n\n\n\n"
+        },
+        {
+            "name": "الرحابنة",
+            "original_text": "Al-Rahbani",
+            "type": "ORGANIZATION",
+            "description": "عائلة فنية لبنانية، تم ذكرهم في سياق مقارنة العلاقة الفنية بين محمود الخضر وسيف فاضل بعلاقة فيروز معهم. \n\n\n\n"
+        },
+        {
+            "name": "علاء الدين",
+            "original_text": "Aladdin",
+            "type": "WORK_OF_ART",
+            "description": "فيلم كرتون، تم ذكره في سياق النظرة النمطية عن العرب. \n\n\n\n"
+        },
+        {
+            "name": "رمضان",
+            "original_text": "Ramadan",
+            "type": "EVENT",
+            "description": "شهر رمضان، تم ذكره في سياق غير واضح. \n\n\n\n"
+        },
+        {
+            "name": "اليابان",
+            "original_text": "Japan",
+            "type": "LOCATION",
+            "description": "دولة، تم ذكرها في سياق تصوير برنامج \"خواطر\" فيها. \n\n\n\n"
+        },
+        {
+            "name": "فلسطين",
+            "original_text": "Palestine",
+            "type": "LOCATION",
+            "description": "دولة، منها مشاري، الذي غنى معه محمود الخضر ديو عن الانتفاضة الفلسطينية. \n\n\n\n"
+        },
+        {
+            "name": "مشاري",
+            "type": "PERSON",
+            "original_text": null,
+            "description": "مغني من فلسطين، غنى مع محمود الخضر ديو عن الانتفاضة الفلسطينية. \n\n\n\n"
+        },
+        {
+            "name": "عبد الوهاب",
+            "type": "PERSON",
+            "original_text": null,
+            "description": "شخص غير معروف، تم ذكره في سياق العمل مع محمود الخضر ومشاري على أغنية عن الانتفاضة الفلسطينية. \n\n\n\n"
+        },
+        {
+            "name": "الكويت",
+            "original_text": "Kuwait",
+            "type": "LOCATION",
+            "description": "دولة، تم ذكرها في سياق انتشار أغاني محمود الخضر ومشاري. \n\n\n\n"
+        },
+        {
+            "name": "الوطن العربي",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية، تم ذكرها في سياق انتشار أغاني محمود الخضر ومشاري. \n\n\n\n"
+        },
+        {
+            "name": "الخليج",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية، تم ذكرها في سياق انتشار أغاني محمود الخضر ومشاري. \n\n\n\n"
+        },
+        {
+            "name": "مصر",
+            "original_text": "Egypt",
+            "type": "LOCATION",
+            "description": "دولة، تم ذكرها في سياق انتشار أغاني محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "المغرب العربي",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية، تم ذكرها في سياق انتشار أغاني محمود الخضر. \n\n\n\n"
+        },
+        {
+            "name": "أوروبا",
+            "original_text": "Europe",
+            "type": "LOCATION",
+            "description": "قارة، تم ذكرها في سياق وجود جاليات عربية فيها. \n\n\n\n"
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+    "Entities": [
+        {
+            "name": "الدول العربية والإسلامية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "تشير إلى مجموعة الدول التي تتشارك اللغة العربية أو الدين الإسلامي كهوية ثقافية أو دينية أساسية."
+        },
+        {
+            "name": "مصر",
+            "original_text": "Egypt",
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شمال شرق إفريقيا، وتعتبر من أهم الدول العربية من حيث عدد السكان والتاريخ."
+        },
+        {
+            "name": "إسرائيل",
+            "original_text": "Israel",
+            "type": "LOCATION",
+            "description": "دولة تقع في الشرق الأوسط، وتعتبر مركز الديانة اليهودية."
+        },
+        {
+            "name": "رمضان",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "شهر رمضان هو شهر الصيام عند المسلمين، وهو ركن من أركان الإسلام الخمسة."
+        },
+        {
+            "name": "حرب أكتوبر",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "حرب نشبت بين مصر وسوريا من جهة وإسرائيل من جهة أخرى في عام 1973، وانتهت بتحقيق العرب بعض المكاسب العسكرية."
+        },
+        {
+            "name": "نكسة 1967",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "حرب نشبت بين إسرائيل من جهة ومصر وسوريا والأردن من جهة أخرى في عام 1967، وانتهت بهزيمة العرب واحتلال إسرائيل لسيناء وهضبة الجولان والضفة الغربية."
+        },
+        {
+            "name": "جمال عبد الناصر",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "ثاني رؤساء مصر، حكم من عام 1956 حتى وفاته عام 1970، ويعتبر من أهم قادة الحركة القومية العربية."
+        },
+        {
+            "name": "محافظة أسيوط",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "محافظة تقع في صعيد مصر."
+        },
+        {
+            "name": "الإسكندرية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة ساحلية تقع في شمال مصر، وتعتبر ثاني أكبر مدينة مصرية."
+        },
+        {
+            "name": "ميدان المنشية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "ميدان يقع في مدينة القاهرة، ويعتبر من أهم ميادين العاصمة المصرية."
+        },
+        {
+            "name": "الاستعمار الإنجليزي",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "يشير إلى فترة سيطرة الإمبراطورية البريطانية على مصر، والتي انتهت رسميًا عام 1952."
+        },
+        {
+            "name": "القومية العربية",
+            "original_text": null,
+            "type": "MISC",
+            "description": "فكر قومي يدعو إلى وحدة العرب في دولة واحدة."
+        },
+        {
+            "name": "الكليّة الحربية",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "مؤسسة تعليمية عسكرية تهدف إلى تخريج ضباط الجيش."
+        },
+        {
+            "name": "إبراهيم خيري باشا",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "وزير حربية مصري سابق."
+        },
+        {
+            "name": "محمد أنور السادات",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "ثالث رؤساء مصر، حكم من عام 1970 حتى اغتياله عام 1981."
+        },
+        {
+            "name": "حركة الضباط الأحرار",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "تنظيم عسكري مصري قام بثورة 23 يوليو 1952، وأطاح بالملك فاروق."
+        },
+        {
+            "name": "الملك فاروق",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "آخر ملوك مصر، حكم من عام 1936 حتى إجباره على التنازل عن العرش عام 1952."
+        },
+        {
+            "name": "محمد نجيب",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "أول رؤساء مصر، حكم لفترة قصيرة من عام 1953 حتى عام 1954."
+        },
+        {
+            "name": "القدس",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة مقدسة عند المسلمين والمسيحيين واليهود، وتقع في فلسطين."
+        },
+        {
+            "name": "الفلسطينيين",
+            "original_text": null,
+            "type": "MISC",
+            "description": "شعب عربي يعيش في فلسطين."
+        },
+        {
+            "name": "المسجد الأقصى",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مسجد يقع في مدينة القدس، ويعتبر أولى القبلتين وثالث الحرمين الشريفين عند المسلمين."
+        },
+        {
+            "name": "14 مايو 1967",
+            "original_text": null,
+            "type": "MISC",
+            "description": "تاريخ إعلان قيام دولة إسرائيل."
+        },
+        {
+            "name": "سوريا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في غرب آسيا."
+        },
+        {
+            "name": "العراق",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في غرب آسيا."
+        },
+        {
+            "name": "الأردن",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في الشرق الأوسط."
+        },
+        {
+            "name": "أمريكا",
+            "original_text": "America",
+            "type": "LOCATION",
+            "description": "الولايات المتحدة الأمريكية."
+        },
+        {
+            "name": "ألمانيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في قارة أوروبا."
+        },
+        {
+            "name": "سيناء",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "شبه جزيرة تقع في شمال شرق مصر."
+        },
+        {
+            "name": "هضبة الجولان",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "هضبة تقع في سوريا، وتسيطر عليها إسرائيل منذ عام 1967."
+        },
+        {
+            "name": "الضفة الغربية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة تقع في فلسطين، وتسيطر عليها إسرائيل منذ عام 1967."
+        },
+        {
+            "name": "قطاع غزة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة تقع في فلسطين، وتخضع لحصار إسرائيلي منذ عام 2007."
+        },
+        {
+            "name": "مجلس الأمن",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "أحد أجهزة الأمم المتحدة، ويتولى مسؤولية حفظ الأمن والسلم الدوليين."
+        },
+        {
+            "name": "القرار رقم 234",
+            "original_text": null,
+            "type": "LAW",
+            "description": "قرار صادر عن مجلس الأمن الدولي يدعو إلى وقف إطلاق النار في حرب 1967."
+        },
+        {
+            "name": "حرب الاستنزاف",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "حرب استمرت من عام 1967 حتى عام 1970 بين مصر وإسرائيل، واتسمت بعمليات كر وفر على جانبي قناة السويس."
+        },
+        {
+            "name": "الاتحاد السوفيتي",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة شيوعية سابقة كانت موجودة في الفترة من عام 1922 حتى عام 1991."
+        },
+        {
+            "name": "الملك حسين",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "ملك الأردن من عام 1952 حتى وفاته عام 1999."
+        },
+        {
+            "name": "القمة العربية",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "اجتماع دوري يعقد بين قادة الدول العربية."
+        },
+        {
+            "name": "قناة السويس",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "قناة مائية اصطناعية تصل بين البحر الأبيض المتوسط والبحر الأحمر."
+        },
+        {
+            "name": "سعد الشادلي",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "رئيس أركان حرب القوات المسلحة المصرية خلال حرب أكتوبر."
+        },
+        {
+            "name": "عيد الغفران",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "عيد ديني يهودي."
+        },
+        {
+            "name": "6 أكتوبر 1973",
+            "original_text": null,
+            "type": "MISC",
+            "description": "تاريخ بدء حرب أكتوبر."
+        },
+        {
+            "name": "كتيبة الصاعقة",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "وحدة عسكرية مصرية من القوات الخاصة."
+        },
+        {
+            "name": "إبراهيم الرفاعي",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "قائد عسكري مصري."
+        },
+        {
+            "name": "عساف ياجوري",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "قائد عسكري إسرائيلي."
+        },
+        {
+            "name": "طائرة اس ار 71",
+            "original_text": "SR-71",
+            "type": "MISC",
+            "description": "نوع من الطائرات الأمريكية للتصوير الجوي."
+        },
+        {
+            "name": "13 أكتوبر",
+            "original_text": null,
+            "type": "MISC",
+            "description": "تاريخ تحليق طائرة التجسس الأمريكية فوق منطقة القتال في حرب أكتوبر."
+        },
+        {
+            "name": "معركة السويس",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "معركة وقعت في مدينة السويس المصرية خلال حرب أكتوبر."
+        },
+        {
+            "name": "23 أكتوبر",
+            "original_text": null,
+            "type": "MISC",
+            "description": "تاريخ محاولة إسرائيل اقتحام مدينة السويس."
+        },
+        {
+            "name": "إبراهيم سليمان",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "جندي مصري استبسل في الدفاع عن مدينة السويس."
+        },
+        {
+            "name": "مخبري رويال",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مكان في مدينة السويس."
+        },
+        {
+            "name": "سينما مصر",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مكان في مدينة السويس."
+        },
+        {
+            "name": "قسم شرطة الأربعين",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مبنى قسم شرطة في مدينة السويس."
+        },
+        {
+            "name": "الأمم المتحدة",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "منظمة دولية تأسست عام 1945."
+        },
+        {
+            "name": "الولايات المتحدة الأمريكية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في أمريكا الشمالية."
+        },
+        {
+            "name": "الجولان",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "هضبة الجولان."
+        },
+        {
+            "name": "1974",
+            "original_text": null,
+            "type": "MISC",
+            "description": "عام انتهاء حرب أكتوبر."
+        },
+        {
+            "name": "الجزائر",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شمال إفريقيا."
+        },
+        {
+            "name": "ليبيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شمال إفريقيا."
+        },
+        {
+            "name": "المغرب",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شمال إفريقيا."
+        },
+        {
+            "name": "السعودية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شبه الجزيرة العربية."
+        },
+        {
+            "name": "السودان",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شمال شرق إفريقيا."
+        },
+        {
+            "name": "الكويت",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شبه الجزيرة العربية."
+        },
+        {
+            "name": "تونس",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شمال إفريقيا."
+        },
+        {
+            "name": "أغسطس 1973",
+            "original_text": null,
+            "type": "MISC",
+            "description": "شهر أغسطس من عام 1973."
+        },
+        {
+            "name": "الرياض",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "عاصمة المملكة العربية السعودية."
+        },
+        {
+            "name": "الملك فيصل بن عبد العزيز آل سعود",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "ملك المملكة العربية السعودية من عام 1964 حتى اغتياله عام 1975."
+        },
+        {
+            "name": "سلاح النفط",
+            "original_text": null,
+            "type": "MISC",
+            "description": "استخدام النفط كوسيلة ضغط سياسي."
+        },
+        {
+            "name": "17 أكتوبر",
+            "original_text": null,
+            "type": "MISC",
+            "description": "تاريخ إصدار الملك فيصل قرار استخدام سلاح النفط."
+        },
+        {
+            "name": "أوبك",
+            "original_text": "OPEC",
+            "type": "ORGANIZATION",
+            "description": "منظمة الدول المصدرة للنفط."
+        },
+        {
+            "name": "هنري كيسنجر",
+            "original_text": "Henry Kissinger",
+            "type": "PERSON",
+            "description": "وزير خارجية الولايات المتحدة الأمريكية الأسبق."
+        },
+        {
+            "name": "سوق الأوراق المالية",
+            "original_text": null,
+            "type": "MISC",
+            "description": "سوق لتداول الأسهم والسندات."
+        },
+        {
+            "name": "جامعة الدول العربية",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "منظمة إقليمية تضم الدول العربية."
+        },
+        {
+            "name": "القاهرة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "عاصمة جمهورية مصر العربية."
+        },
+        {
+            "name": "غزة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة فلسطينية تقع على ساحل البحر الأبيض المتوسط."
+        },
+        {
+            "name": "7 أكتوبر",
+            "original_text": null,
+            "type": "MISC",
+            "description": "تاريخ اشتداد المعارك بين الفلسطينيين والإسرائيليين في غزة."
+        },
+        {
+            "name": "جولدا مائير",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "رئيسة وزراء إسرائيل السابقة."
+        }
+    ]
+}

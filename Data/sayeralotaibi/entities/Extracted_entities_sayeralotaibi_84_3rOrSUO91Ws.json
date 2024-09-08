@@ -1,0 +1,550 @@
+{
+    "Entities": [
+        {
+            "name": "مدن عربيه",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدن تقع في الوطن العربي، وهي مهددة بالغرق بسبب ارتفاع منسوب مياه البحر نتيجة للتغير المناخي."
+        },
+        {
+            "name": "80 سنة",
+            "original_text": null,
+            "type": "MISC",
+            "description": "فترة زمنية يُتوقع خلالها حدوث تغيرات مناخية كبيرة، بما في ذلك غرق بعض المدن واختفاء دول."
+        },
+        {
+            "name": "خريطة العالم",
+            "original_text": null,
+            "type": "MISC",
+            "description": "تمثيل مرئي لسطح الأرض، وتتغير مع مرور الوقت بسبب عوامل مختلفة منها التغيرات المناخية."
+        },
+        {
+            "name": "البوسنة والهرسك",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في جنوب شرق أوروبا، وكانت جزءًا من يوغوسلافيا قبل تفككها."
+        },
+        {
+            "name": "صربيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في جنوب شرق أوروبا، وكانت جزءًا من يوغوسلافيا قبل تفككها."
+        },
+        {
+            "name": "كرواتيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في جنوب شرق أوروبا، وكانت جزءًا من يوغوسلافيا قبل تفككها."
+        },
+        {
+            "name": "يوغسلافيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة سابقة في جنوب شرق أوروبا، تفككت إلى عدة دول، منها صربيا، وكرواتيا، والبوسنة والهرسك."
+        },
+        {
+            "name": "زنجبار",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "جزيرة تقع قبالة سواحل تنزانيا في شرق إفريقيا، كانت دولة عربية إسلامية قبل أن تصبح جزءًا من تنزانيا."
+        },
+        {
+            "name": "العائلة السلطانية العمانية",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "العائلة الحاكمة في سلطنة عمان، حكمت زنجبار لفترة من الزمن."
+        },
+        {
+            "name": "1964",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي أصبحت فيه زنجبار تحت حكم الدولة الأفريقية."
+        },
+        {
+            "name": "تنزانيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في شرق إفريقيا، نتجت عن اتحاد تنجانيقا وزنجبار."
+        },
+        {
+            "name": "تغير المناخ",
+            "original_text": null,
+            "type": "MISC",
+            "description": "ظاهرة عالمية تتمثل في ارتفاع درجة حرارة الأرض، والتغيرات في أنماط هطول الأمطار، وارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "الاحتباس الحراري",
+            "original_text": null,
+            "type": "MISC",
+            "description": "ظاهرة ارتفاع درجة حرارة الأرض بسبب زيادة تركيز الغازات الدفيئة في الغلاف الجوي."
+        },
+        {
+            "name": "1930",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي بدأت فيه درجات الحرارة العالمية في الارتفاع بشكل ملحوظ."
+        },
+        {
+            "name": "باريس",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "عاصمة فرنسا، استضافت اتفاقية باريس للمناخ في عام 2015."
+        },
+        {
+            "name": "2015",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي تم فيه توقيع اتفاقية باريس للمناخ."
+        },
+        {
+            "name": "اتفاقية باريس",
+            "original_text": null,
+            "type": "LAW",
+            "description": "اتفاقية دولية تهدف إلى الحد من ظاهرة الاحتباس الحراري، تم التوقيع عليها في باريس عام 2015."
+        },
+        {
+            "name": "درجتين مئويه",
+            "original_text": null,
+            "type": "MISC",
+            "description": "الحد الأقصى لارتفاع درجة حرارة الأرض الذي اتفقت عليه دول العالم في اتفاقية باريس."
+        },
+        {
+            "name": "حضارة عرابة",
+            "original_text": null,
+            "type": "MISC",
+            "description": "حضارة قديمة قامت في وادي السند في باكستان، ويُعتقد أنها انتهت بسبب التغير المناخي."
+        },
+        {
+            "name": "وادي السند",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية تقع في باكستان، شهدت قيام حضارة عرابة."
+        },
+        {
+            "name": "باكستان",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في جنوب آسيا، تقع فيها منطقة وادي السند."
+        },
+        {
+            "name": "1993",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي بدأت فيه الدراسات تُظهر ارتفاعًا ملحوظًا في منسوب مياه البحر."
+        },
+        {
+            "name": "2018",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي وصل فيه ارتفاع منسوب مياه البحر إلى 42%."
+        },
+        {
+            "name": "2021",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي تم فيه تأكيد بداية عهد اختفاء الدول بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "دولة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مصطلح عام يشير إلى دولة لم يتم ذكر اسمها."
+        },
+        {
+            "name": "المحيط الهادي",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "أكبر محيط على وجه الأرض، تقع فيه جزر توفالو."
+        },
+        {
+            "name": "أستراليا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في نصف الكرة الجنوبي، قريبة من جزر توفالو."
+        },
+        {
+            "name": "جزر الهواء",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مجموعة جزر تقع في المحيط الهادي."
+        },
+        {
+            "name": "توفالو",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة جزرية تقع في المحيط الهادي، مهددة بالغرق بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "15 قدم",
+            "original_text": null,
+            "type": "MISC",
+            "description": "ارتفاع جزر توفالو عن مستوى سطح البحر، وهو ارتفاع منخفض جدًا."
+        },
+        {
+            "name": "2040",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي يتوقع فيه غرق جزر توفالو بشكل كامل."
+        },
+        {
+            "name": "كندا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في أمريكا الشمالية، سمحت بدخول لاجئين مناخيين من جزر توفالو."
+        },
+        {
+            "name": "لاجئين مناخ",
+            "original_text": null,
+            "type": "MISC",
+            "description": "الأشخاص الذين اضطروا لترك منازلهم بسبب التغيرات المناخية."
+        },
+        {
+            "name": "11,000 نسمة",
+            "original_text": null,
+            "type": "MISC",
+            "description": "عدد سكان جزر توفالو."
+        },
+        {
+            "name": "هولندا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في شمال غرب أوروبا، مهددة بالغرق بسبب انخفاض مستوى أراضيها عن مستوى سطح البحر."
+        },
+        {
+            "name": "1953",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي ضربت فيه عاصفة قوية هولندا وتسببت في فيضانات كبيرة."
+        },
+        {
+            "name": "خمس امتار",
+            "original_text": null,
+            "type": "MISC",
+            "description": "ارتفاع منسوب المياه في بعض مناطق هولندا بعد العاصفة التي ضربتها عام 1953."
+        },
+        {
+            "name": "سبع امتار",
+            "original_text": null,
+            "type": "MISC",
+            "description": "ارتفاع البحر عن بعض الأماكن في هولندا."
+        },
+        {
+            "name": "الدول العربية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مجموعة من الدول تقع في غرب آسيا وشمال إفريقيا."
+        },
+        {
+            "name": "الدول الخليجية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مجموعة من الدول العربية تقع في منطقة الخليج العربي."
+        },
+        {
+            "name": "4.8 درجة مئوية",
+            "original_text": null,
+            "type": "MISC",
+            "description": "الارتفاع المتوقع في درجة حرارة الأرض بحلول عام 2100."
+        },
+        {
+            "name": "2100",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي يتوقع فيه حدوث تغيرات مناخية كبيرة، بما في ذلك ارتفاع درجة حرارة الأرض إلى 4.8 درجة مئوية."
+        },
+        {
+            "name": "اثنين او 80 سم",
+            "original_text": null,
+            "type": "MISC",
+            "description": "الارتفاع المتوقع في منسوب مياه البحر بحلول عام 2100."
+        },
+        {
+            "name": "5%",
+            "original_text": null,
+            "type": "MISC",
+            "description": "نسبة انبعاثات الغازات الدفيئة من الدول العربية والخليجية."
+        },
+        {
+            "name": "متر واحد",
+            "original_text": null,
+            "type": "MISC",
+            "description": "ارتفاع مستوى سطح البحر الذي سيؤثر على 41,000 كلم من الأراضي الساحلية العربية."
+        },
+        {
+            "name": "41.000 كلم",
+            "original_text": null,
+            "type": "MISC",
+            "description": "مساحة الأراضي الساحلية العربية التي ستتأثر بارتفاع مستوى سطح البحر."
+        },
+        {
+            "name": "قطر",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شرق شبه الجزيرة العربية، مهددة بغرق جزء من أراضيها بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "الكويت",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شمال شرق شبه الجزيرة العربية، مهددة بغرق جزء من أراضيها بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "الجزائر",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شمال إفريقيا، مهددة بغرق جزء من أراضيها بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "البحرين",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية جزرية تقع في الخليج العربي، مهددة بغرق 20% من أراضيها بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "20%",
+            "original_text": null,
+            "type": "MISC",
+            "description": "نسبة الأراضي المهددة بالغرق في البحرين بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "تقرير البنك الدولي",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "تقرير صادر عن البنك الدولي يحذر من الآثار السلبية للتغير المناخي على الدول العربية."
+        },
+        {
+            "name": "12 مليار دولار",
+            "original_text": null,
+            "type": "MISC",
+            "description": "قيمة الخسائر التي تكبدتها الدول العربية بسبب التغير المناخي."
+        },
+        {
+            "name": "30 سنة",
+            "original_text": null,
+            "type": "MISC",
+            "description": "الفترة الزمنية التي تضرر خلالها 30 مليون عربي من الأزمة المناخية."
+        },
+        {
+            "name": "30 مليون عربي",
+            "original_text": null,
+            "type": "MISC",
+            "description": "عدد العرب الذين تضرروا من الأزمة المناخية خلال الثلاثين سنة الماضية."
+        },
+        {
+            "name": "الإسكندرية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة ساحلية تقع في شمال مصر، مهددة بالغرق بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "جدة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة ساحلية تقع في غرب السعودية، مهددة بالغرق بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "عدن",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة ساحلية تقع في جنوب اليمن، مهددة بالغرق بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "مؤسسات ناشيونال جيوغرافيك",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "مؤسسة علمية وإعلامية تهتم بالجغرافيا والعلوم الطبيعية."
+        },
+        {
+            "name": "البحر الأبيض المتوسط",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "بحر داخلي يقع بين قارات أوروبا وأفريقيا وآسيا."
+        },
+        {
+            "name": "المغرب",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في شمال إفريقيا، على حدود البحر الأبيض المتوسط."
+        },
+        {
+            "name": "ساحل الخليج",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "المنطقة الساحلية المطلة على الخليج العربي."
+        },
+        {
+            "name": "جزر القمر",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة جزرية تقع في المحيط الهندي، مهددة بالغرق بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "مدغشقر",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة جزرية تقع في المحيط الهندي، قريبة من جزر القمر."
+        },
+        {
+            "name": "موزمبيق",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في جنوب شرق إفريقيا، قريبة من جزر القمر."
+        },
+        {
+            "name": "الساحل الشرقي الأفريقي",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "المنطقة الساحلية المطلة على المحيط الهندي في شرق إفريقيا."
+        },
+        {
+            "name": "موقع بورد اطلس",
+            "original_text": null,
+            "type": "MISC",
+            "description": "موقع إلكتروني يقدم معلومات وخرائط عن دول العالم."
+        },
+        {
+            "name": "52 دولة",
+            "original_text": null,
+            "type": "MISC",
+            "description": "عدد الدول المهددة بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "بنغلاديش",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في جنوب آسيا، مهددة بالغرق بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "163 مليون نسمة",
+            "original_text": null,
+            "type": "MISC",
+            "description": "عدد سكان بنغلاديش."
+        },
+        {
+            "name": "جزر المالديف",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة جزرية تقع في المحيط الهندي، مهددة بالغرق بسبب ارتفاع منسوب مياه البحر."
+        },
+        {
+            "name": "1,100 جزيرة",
+            "original_text": null,
+            "type": "MISC",
+            "description": "عدد جزر المالديف."
+        },
+        {
+            "name": "أربع امتار",
+            "original_text": null,
+            "type": "MISC",
+            "description": "ارتفاع جزر المالديف عن مستوى سطح البحر."
+        },
+        {
+            "name": "شوكولاتة",
+            "original_text": null,
+            "type": "PRODUCT",
+            "description": "منتج غذائي مصنوع من الكاكاو، مهدد بالانقراض بسبب تأثر أشجار الكاكاو بالتغير المناخي."
+        },
+        {
+            "name": "غانا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في غرب إفريقيا، تشتهر بزراعة الكاكاو."
+        },
+        {
+            "name": "ساحل العاج",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في غرب إفريقيا، تشتهر بزراعة الكاكاو."
+        },
+        {
+            "name": "قهوة",
+            "original_text": null,
+            "type": "PRODUCT",
+            "description": "مشروب ساخن يصنع من حبوب البن، مهدد بالانقراض بسبب تأثر زراعة البن بالتغير المناخي."
+        },
+        {
+            "name": "2008",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي توقعت فيه دراسة أن تصبح ثلاثة أثمان مناطق زراعة البن غير صالحة."
+        },
+        {
+            "name": "عسل",
+            "original_text": null,
+            "type": "PRODUCT",
+            "description": "مادة غذائية حلوة ينتجها النحل، مهدد بالانقراض بسبب انخفاض أعداد النحل نتيجة للتغير المناخي."
+        },
+        {
+            "name": "الرئيس الأمريكي",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "رئيس الولايات المتحدة الأمريكية، ألقى خطابًا في قمة جلاسكو للمناخ عام 2021."
+        },
+        {
+            "name": "قمة جلاسكو للمناخ",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "مؤتمر دولي عُقد في مدينة جلاسكو باسكتلندا عام 2021 لمناقشة قضية التغير المناخي."
+        },
+        {
+            "name": "2021",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي عُقدت فيه قمة جلاسكو للمناخ."
+        },
+        {
+            "name": "موقع فيستاي اكدون",
+            "original_text": null,
+            "type": "MISC",
+            "description": "موقع إلكتروني يقدم إحصائيات عن انبعاثات ثاني أكسيد الكربون في العالم."
+        },
+        {
+            "name": "الصين",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في شرق آسيا، تحتل المرتبة الأولى في انبعاثات ثاني أكسيد الكربون في العالم."
+        },
+        {
+            "name": "28%",
+            "original_text": null,
+            "type": "MISC",
+            "description": "نسبة انبعاثات ثاني أكسيد الكربون من الصين."
+        },
+        {
+            "name": "الولايات المتحدة الأمريكية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في أمريكا الشمالية، تحتل المرتبة الثانية في انبعاثات ثاني أكسيد الكربون في العالم."
+        },
+        {
+            "name": "15%",
+            "original_text": null,
+            "type": "MISC",
+            "description": "نسبة انبعاثات ثاني أكسيد الكربون من الولايات المتحدة الأمريكية."
+        },
+        {
+            "name": "الهند",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في جنوب آسيا، من الدول التي تساهم بشكل كبير في انبعاثات ثاني أكسيد الكربون."
+        },
+        {
+            "name": "روسيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في شرق أوروبا وشمال آسيا، من الدول التي تساهم بشكل كبير في انبعاثات ثاني أكسيد الكربون."
+        },
+        {
+            "name": "اليابان",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في شرق آسيا، من الدول التي تساهم بشكل كبير في انبعاثات ثاني أكسيد الكربون."
+        },
+        {
+            "name": "ألمانيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في وسط أوروبا، من الدول التي تساهم بشكل كبير في انبعاثات ثاني أكسيد الكربون."
+        }
+    ]
+}

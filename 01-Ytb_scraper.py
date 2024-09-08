@@ -8,7 +8,9 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from tqdm import tqdm
 from youtube_transcript_api import YouTubeTranscriptApi
-from isodate import parse_duration
+import isodate
+import glob
+
 
 load_dotenv()
 api_key = os.getenv("YTB_API_KEY")
@@ -45,7 +47,7 @@ def fetch_video_ids(channel_name,max_videos):
     Returns:
       A list of {video ID, video url, title}.
     """
-    import isodate 
+    
     # Make a request to youtube api
     base_url = "https://www.googleapis.com/youtube/v3/channels"
     channel_id = get_channel_id(channel_name)
@@ -94,10 +96,11 @@ def fetch_video_ids(channel_name,max_videos):
     # Extract video URLs
     video_urls = []
     
-    cnt2 = 1
+    cnt2 = int(1)
     for video in videos:
         
         video_id = video["snippet"]["resourceId"]["videoId"]
+
         videoInfo = (
             youtube.videos()
             .list(
@@ -175,7 +178,7 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    max_videos = args.max_videos
+    max_videos = args.max_videos or 1000
     channel_name = args.channel_name
     results_dir = args.results_dir
 
@@ -200,27 +203,35 @@ if __name__ == "__main__":
         output_file2 = os.path.join(TRANSCRIPTS_DIR,"raw", f"{results_dir}_{i}_{video_id}.txt")
         json_file = os.path.join(TRANSCRIPTS_DIR, "transcripts.json")
         
-        # save transcript
-        success = fetch_and_save_transcript(video, output_file, output_file2 )
+        os.chdir(TRANSCRIPTS_DIRJson)
+        for file in glob.glob('*'+video_id+'*'):
+            print("Already exists :: ", file)
+            print("----------------------------------")
+            break
+        else:
+            print("Not exists :: ", video_id)
+            print("----------------------------------")
+            # save transcript
+            success = fetch_and_save_transcript(video, output_file, output_file2 )
 
-        # save json file with transcript_path, video_url, video_title
-        if success:
-            with open(json_file, "a", encoding="utf-8", newline="\n") as file:
-                json.dump(
-                    {
-                        "status": "success" if success else "failed",
-                        "channel_name": channel_name,
-                        "transcript_path": output_file if success else "",
-                        "video_url": video["URL"],
-                        "video_title": video["Title"],
-                        "channelTitle": video["channelTitle"],
-                        "publishedAt": video["publishedAt"],
-                        "videoInfo": video["videoInfo"],
-                    },
-                    file,
-                    ensure_ascii=False,
-                    indent=4,
-                )
-            cnt += 1
+            # save json file with transcript_path, video_url, video_title
+            if success:
+                with open(json_file, "a", encoding="utf-8", newline="\n") as file:
+                    json.dump(
+                        {
+                            "status": "success" if success else "failed",
+                            "channel_name": channel_name,
+                            "transcript_path": output_file if success else "",
+                            "video_url": video["URL"],
+                            "video_title": video["Title"],
+                            "channelTitle": video["channelTitle"],
+                            "publishedAt": video["publishedAt"],
+                            "videoInfo": video["videoInfo"],
+                        },
+                        file,
+                        ensure_ascii=False,
+                        indent=4,
+                    )
+                cnt += 1
 
     print(f"Saved {cnt} transcripts for {channel_name}.")

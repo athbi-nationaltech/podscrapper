@@ -1,0 +1,592 @@
+{
+    "Entities": [
+        {
+            "name": "ملك العرب",
+            "original_text": null,
+            "type": "MISC",
+            "description": "لقب طمح إليه الشريف حسين، وكان يسعى لتحقيقه من خلال الثورة العربية الكبرى وتوحيد العرب تحت حكمه."
+        },
+        {
+            "name": "الثورة العربية الكبرى",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "ثورة اندلعت عام 1916 بقيادة الشريف حسين ضد الدولة العثمانية، بدعم من بريطانيا، بهدف الاستقلال عن الحكم العثماني وتأسيس دولة عربية موحدة."
+        },
+        {
+            "name": "الإنجليز",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "يشير إلى الإمبراطورية البريطانية في ذلك الوقت، والتي لعبت دورًا رئيسيًا في دعم الثورة العربية الكبرى وتقسيم الدولة العثمانية."
+        },
+        {
+            "name": "مراسلات مكماهون",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "سلسلة من الرسائل المتبادلة بين الشريف حسين وهنري مكماهون، المندوب السامي البريطاني في مصر، خلال الحرب العالمية الأولى."
+        },
+        {
+            "name": "الدولة العثمانية",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "إمبراطورية إسلامية حكمت العالم العربي لقرون، وكانت في حالة ضعف وتدهور في أوائل القرن العشرين."
+        },
+        {
+            "name": "الشريف حسين",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "شريف مكة وقائد الثورة العربية الكبرى، سعى للاستقلال عن الدولة العثمانية وتأسيس دولة عربية موحدة."
+        },
+        {
+            "name": "القرن الرابع الهجري",
+            "original_text": null,
+            "type": "MISC",
+            "description": "فترة تاريخية شهدت ضعف الدولة العباسية وانفصال العديد من الدول عنها."
+        },
+        {
+            "name": "الدولة العباسية",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "خلافة إسلامية حكمت العالم الإسلامي لعدة قرون، وكانت عاصمتها بغداد."
+        },
+        {
+            "name": "دولة القرامطة",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "دولة إسلامية شيعية قامت في شرق الجزيرة العربية، عرفت بتمردها على الدولة العباسية."
+        },
+        {
+            "name": "مكة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة مقدسة في الإسلام، تقع في المملكة العربية السعودية، وتضم الكعبة المشرفة."
+        },
+        {
+            "name": "الحجر الأسود",
+            "original_text": null,
+            "type": "MISC",
+            "description": "حجر مقدس في الإسلام، يقع في ركن الكعبة المشرفة."
+        },
+        {
+            "name": "الكعبة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "المبنى المقدس في الإسلام، يقع في وسط المسجد الحرام في مكة المكرمة."
+        },
+        {
+            "name": "967 ميلادي",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي سيطر فيه جعفر بن محمد الحسني على مكة وأسس إمارة الأشراف."
+        },
+        {
+            "name": "جعفر بن محمد الحسني",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "مؤسس إمارة الأشراف في مكة المكرمة، يعتبر من نسل الرسول محمد صلى الله عليه وسلم."
+        },
+        {
+            "name": "إمارة الأشراف",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "إمارة إسلامية حكمت مكة المكرمة والمدينة المنورة لعدة قرون."
+        },
+        {
+            "name": "شريف مكة",
+            "original_text": null,
+            "type": "MISC",
+            "description": "لقب كان يُطلق على حاكم مكة المكرمة، وكانوا عادة من نسل الرسول محمد صلى الله عليه وسلم."
+        },
+        {
+            "name": "السلطان سليم الأول",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "سلطان الدولة العثمانية الذي ضم مصر والشام إلى الدولة العثمانية."
+        },
+        {
+            "name": "مصر",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شمال شرق أفريقيا."
+        },
+        {
+            "name": "الشام",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية تقع في غرب آسيا، وتضم سوريا ولبنان وفلسطين والأردن."
+        },
+        {
+            "name": "517 ميلادي",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي ضم فيه السلطان سليم الأول مصر والشام إلى الدولة العثمانية."
+        },
+        {
+            "name": "الحجاز",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية تقع في غرب المملكة العربية السعودية، وتضم مكة المكرمة والمدينة المنورة."
+        },
+        {
+            "name": "الوالي العثماني",
+            "original_text": null,
+            "type": "MISC",
+            "description": "لقب كان يُطلق على حاكم الولايات العثمانية."
+        },
+        {
+            "name": "آل بركات",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "إحدى العائلات التي تنافست على منصب شريف مكة."
+        },
+        {
+            "name": "آل زيت",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "إحدى العائلات التي تنافست على منصب شريف مكة."
+        },
+        {
+            "name": "آل عون",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "إحدى العائلات التي تنافست على منصب شريف مكة، وكانت مسيطرة على المنصب."
+        },
+        {
+            "name": "1827",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي أصبح فيه محمد بن عبد المعين آل عون شريف مكة."
+        },
+        {
+            "name": "محمد بن عون",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "شريف مكة، دخل في خلافات مع الوالي العثماني."
+        },
+        {
+            "name": "السلطان العثماني عبد المجيد الأول",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "سلطان الدولة العثمانية، عزل محمد بن عون من منصب شريف مكة."
+        },
+        {
+            "name": "اسطنبول",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "عاصمة الدولة العثمانية."
+        },
+        {
+            "name": "1851",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي عُزل فيه محمد بن عون من منصب شريف مكة."
+        },
+        {
+            "name": "عبد المطلب بن غالب",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "شريف مكة، عُين بعد عزل محمد بن عون."
+        },
+        {
+            "name": "آل زيد",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "إحدى العائلات التي تنافست على منصب شريف مكة."
+        },
+        {
+            "name": "1853",
+            "original_text": null,
+            "type": "MISC",
+            "description": "عام مولد الحسين بن علي بن محمد بن عبد المعين آل عون، المعروف لاحقًا باسم الشريف حسين."
+        },
+        {
+            "name": "الحسين بن علي",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "قائد الثورة العربية الكبرى، سعى للاستقلال عن الدولة العثمانية وتأسيس دولة عربية موحدة."
+        },
+        {
+            "name": "الرق",
+            "original_text": null,
+            "type": "MISC",
+            "description": "نظام اجتماعي واقتصادي قائم على امتلاك العبيد."
+        },
+        {
+            "name": "العبيد",
+            "original_text": null,
+            "type": "MISC",
+            "description": "أشخاص يُعاملون كسلعة تُباع وتُشترى."
+        },
+        {
+            "name": "القوات العثمانية",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "الجيش التابع للدولة العثمانية."
+        },
+        {
+            "name": "القرآن",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "الكتاب المقدس في الإسلام."
+        },
+        {
+            "name": "1889",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي تأسست فيه جمعية الاتحاد والترقي."
+        },
+        {
+            "name": "جمعية الاتحاد والترقي",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "حركة سياسية عثمانية، سعت إلى تحديث الدولة العثمانية."
+        },
+        {
+            "name": "اليهود",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "أتباع الديانة اليهودية."
+        },
+        {
+            "name": "السلطان عبد الحميد الثاني",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "سلطان الدولة العثمانية، عُزل على يد جمعية الاتحاد والترقي."
+        },
+        {
+            "name": "الدول الأوروبية",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "الدول الواقعة في قارة أوروبا."
+        },
+        {
+            "name": "1905",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي توفي فيه عون الرفيق، شريف مكة."
+        },
+        {
+            "name": "علي حيدر",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "تنافس مع الشريف حسين على منصب شريف مكة."
+        },
+        {
+            "name": "1908",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي عُين فيه الشريف حسين شريفًا لمكة."
+        },
+        {
+            "name": "سلطان نجد",
+            "original_text": null,
+            "type": "MISC",
+            "description": "لقب كان يُطلق على حاكم نجد."
+        },
+        {
+            "name": "نجد",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية تقع في وسط المملكة العربية السعودية."
+        },
+        {
+            "name": "الملك عبد العزيز آل سعود",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "مؤسس المملكة العربية السعودية."
+        },
+        {
+            "name": "1910",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي شن فيه الشريف حسين هجومًا على سلطان نجد."
+        },
+        {
+            "name": "محمد الادريسي",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "أمير إمارة عسير، أعلن انفصاله عن الدولة العثمانية."
+        },
+        {
+            "name": "إمارة عسير",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "إمارة إسلامية قامت في جنوب غرب المملكة العربية السعودية."
+        },
+        {
+            "name": "حرب البلقان",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "حرب اندلعت عام 1913 بين الدولة العثمانية ودول البلقان."
+        },
+        {
+            "name": "1913",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي اندلعت فيه حرب البلقان."
+        },
+        {
+            "name": "الحرب العالمية الأولى",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "حرب عالمية اندلعت عام 1914 بين دول الحلفاء ودول المركز."
+        },
+        {
+            "name": "1914",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي اندلعت فيه الحرب العالمية الأولى."
+        },
+        {
+            "name": "ألمانيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في وسط أوروبا."
+        },
+        {
+            "name": "الإمبراطورية النمساوية",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "إمبراطورية أوروبية، كانت جزءًا من دول المركز في الحرب العالمية الأولى."
+        },
+        {
+            "name": "بريطانيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في غرب أوروبا."
+        },
+        {
+            "name": "فرنسا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في غرب أوروبا."
+        },
+        {
+            "name": "روسيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في شرق أوروبا وشمال آسيا."
+        },
+        {
+            "name": "شيخ الإسلام مصطفى خير أفندي",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "أصدر فتوى بإعلان الجهاد ضد بريطانيا وفرنسا وروسيا."
+        },
+        {
+            "name": "هنري مكماهند",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "الممثل السامي البريطاني في مصر، تبادل الرسائل مع الشريف حسين."
+        },
+        {
+            "name": "1915",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي بدأت فيه مراسلات الحسين مكماهون."
+        },
+        {
+            "name": "العراق",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في غرب آسيا."
+        },
+        {
+            "name": "سوريا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في غرب آسيا."
+        },
+        {
+            "name": "فلسطين",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية تقع في غرب آسيا."
+        },
+        {
+            "name": "الأردن",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في غرب آسيا."
+        },
+        {
+            "name": "عشرة يونيو عام 1916",
+            "original_text": null,
+            "type": "MISC",
+            "description": "اليوم الذي أعلن فيه الشريف حسين الثورة العربية الكبرى."
+        },
+        {
+            "name": "الطائف",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة سعودية تقع بالقرب من مكة المكرمة."
+        },
+        {
+            "name": "الامير علي",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "ابن الشريف حسين، قاد الجيش العربي في المدينة المنورة."
+        },
+        {
+            "name": "المدينة المنورة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة مقدسة في الإسلام، تقع في المملكة العربية السعودية، وتضم المسجد النبوي."
+        },
+        {
+            "name": "خطوط السكة الحديد",
+            "original_text": null,
+            "type": "MISC",
+            "description": "وسيلة نقل كانت تستخدم لنقل الجنود والإمدادات."
+        },
+        {
+            "name": "الامير عبدالله",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "ابن الشريف حسين، أصبح ملكًا على الأردن."
+        },
+        {
+            "name": "الامير فيصل",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "ابن الشريف حسين، قاد الجيش العربي في العقبة، وأصبح ملكًا على العراق."
+        },
+        {
+            "name": "العقبة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة أردنية تقع على ساحل البحر الأحمر."
+        },
+        {
+            "name": "اتفاقية سايكس بيكو",
+            "original_text": null,
+            "type": "LAW",
+            "description": "اتفاقية سرية عُقدت عام 1916 بين بريطانيا وفرنسا وروسيا، لتقسيم الدولة العثمانية."
+        },
+        {
+            "name": "وزير الخارجية البريطاني بلفور",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "أصدر وعد بلفور عام 1917، الذي نص على إقامة وطن قومي لليهود في فلسطين."
+        },
+        {
+            "name": "1917",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي صدر فيه وعد بلفور."
+        },
+        {
+            "name": "وطن لليهود",
+            "original_text": null,
+            "type": "MISC",
+            "description": "يشير إلى إقامة دولة إسرائيل على أرض فلسطين."
+        },
+        {
+            "name": "الثورة البلشفية",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "ثورة اشتراكية اندلعت في روسيا عام 1917، وأدت إلى سقوط الحكم القيصري."
+        },
+        {
+            "name": "لينين",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "زعيم الثورة البلشفية ومؤسس الاتحاد السوفيتي."
+        },
+        {
+            "name": "القيصر الروسي نيكولاي الثاني",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "آخر قياصرة روسيا، أُعدم على يد البلاشفة."
+        },
+        {
+            "name": "الصحف الروسية",
+            "original_text": null,
+            "type": "MEDIA",
+            "description": "وسائل إعلام روسية."
+        },
+        {
+            "name": "معاهدة سايكس بيكو",
+            "original_text": null,
+            "type": "LAW",
+            "description": "اتفاقية سرية عُقدت عام 1916 بين بريطانيا وفرنسا وروسيا، لتقسيم الدولة العثمانية."
+        },
+        {
+            "name": "لبنان",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في غرب آسيا."
+        },
+        {
+            "name": "صلاح الدين",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "قائد عسكري مسلم، حرر القدس من الصليبيين."
+        },
+        {
+            "name": "الحروب الصليبية",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "سلسلة من الحروب الدينية التي شنها الصليبيون الأوروبيون على العالم الإسلامي."
+        },
+        {
+            "name": "معركة تربة",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "معركة وقعت عام 1919 بين قوات الشريف حسين وقوات الملك عبد العزيز آل سعود."
+        },
+        {
+            "name": "1919",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي وقعت فيه معركة تربة."
+        },
+        {
+            "name": "جدة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة سعودية تقع على ساحل البحر الأحمر."
+        },
+        {
+            "name": "العقبة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة أردنية تقع على ساحل البحر الأحمر."
+        },
+        {
+            "name": "المملكة العربية السعودية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في غرب آسيا."
+        },
+        {
+            "name": "قبرص",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "جزيرة تقع في شرق البحر الأبيض المتوسط."
+        },
+        {
+            "name": "1925",
+            "original_text": null,
+            "type": "MISC",
+            "description": "العام الذي سافر فيه الشريف حسين إلى قبرص."
+        },
+        {
+            "name": "السفينة البريطانية دلهي",
+            "original_text": null,
+            "type": "MISC",
+            "description": "السفينة التي نقلت الشريف حسين إلى قبرص."
+        },
+        {
+            "name": "أربعة يونيو عام 1931",
+            "original_text": null,
+            "type": "MISC",
+            "description": "تاريخ وفاة الشريف حسين."
+        },
+        {
+            "name": "القدس",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة مقدسة في الديانات الإبراهيمية، تقع في فلسطين."
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "Entities": [
+        {
+            "name": "سجن تدمر",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "هو سجن يقع في مدينة تدمر في وسط البادية السورية، وقد اشتهر بسمعته السيئة كواحد من أسوأ السجون في العالم بسبب انتهاكات حقوق الإنسان الفظيعة التي حدثت فيه."
+        },
+        {
+            "name": "دمشق",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "هي عاصمة سوريا وأكبر مدنها، وتقع على نهر بردى في جنوب غرب البلاد."
+        },
+        {
+            "name": "حي أبو رمانة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "هو حي راقٍ يقع في مدينة دمشق، سوريا، ويُعرف بأنه من أغلى الأحياء في المدينة."
+        },
+        {
+            "name": "سوريا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "هي دولة عربية تقع في غرب آسيا، وتطل على البحر الأبيض المتوسط."
+        },
+        {
+            "name": "حافظ الأسد",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "هو الرئيس السوري السابق، حكم سوريا من عام 1971 حتى وفاته في عام 2000."
+        },
+        {
+            "name": "نيجيريا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "هي دولة تقع في غرب أفريقيا، وتُعدّ أكبر دولة في أفريقيا من حيث عدد السكان."
+        },
+        {
+            "name": "خالد الحسين",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "هو لواء سوري كان الحارس الشخصي للرئيس السوري السابق حافظ الأسد."
+        },
+        {
+            "name": "الطليعة المقاتلة",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "هي منظمة سورية معارضة مسلحة، تأسست في سبعينيات القرن الماضي."
+        },
+        {
+            "name": "حلب",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "هي مدينة تقع في شمال سوريا، وتُعدّ ثاني أكبر مدن سوريا بعد دمشق."
+        },
+        {
+            "name": "محمد بالروم",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "هو سجين سياسي سوري سابق، اعتقل في سجن تدمر لمدة ثماني سنوات."
+        },
+        {
+            "name": "خلدون صباغ",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "هو سجين سياسي سوري سابق، توفي في سجن تدمر."
+        },
+        {
+            "name": "بكري",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "هو سجين سياسي سوري سابق، أعدم في سجن تدمر."
+        },
+        {
+            "name": "أحمد الحجار",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "هو سجين سياسي سوري سابق، أعدم في سجن تدمر."
+        },
+        {
+            "name": "أحمد برو",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "هو سجين سياسي سوري سابق، اعتقل في سجن تدمر."
+        },
+        {
+            "name": "عبد القادر نابلسي",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "هو سجين سياسي سوري سابق، اعتقل في سجن تدمر."
+        },
+        {
+            "name": "ممدوح عدوان",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "هو كاتب سوري."
+        },
+        {
+            "name": "الغول",
+            "original_text": null,
+            "type": "WORK_OF_ART",
+            "description": "هي مسرحية للكاتب السوري ممدوح عدوان."
+        }
+    ]
+}

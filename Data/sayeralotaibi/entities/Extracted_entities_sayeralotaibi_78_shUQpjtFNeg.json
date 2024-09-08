@@ -1,0 +1,218 @@
+[
+    {
+        "name": "اطول اختطاف طائره في العالم",
+        "original_text": null,
+        "type": "MISC",
+        "description": "يشير إلى حادثة اختطاف طائرة الجابرية الكويتية عام 1988، والتي استمرت لمدة 16 يومًا، مما يجعلها أطول عملية اختطاف طائرة في التاريخ."
+    },
+    {
+        "name": "فان شلت",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "مدينة بلجيكية تقع في الإقليم الفلامندي، وهي عاصمة مقاطعة أنتويرب. تشتهر بمينائها الكبير، وهو واحد من أكبر الموانئ في العالم."
+    },
+    {
+        "name": "العراقيه الايرانيه",
+        "original_text": null,
+        "type": "EVENT",
+        "description": "حرب نشبت بين العراق وإيران في الفترة من 1980 إلى 1988، واشتملت على معارك برية وبحرية وجوية واسعة النطاق. تُعرف أيضًا باسم حرب الخليج الأولى."
+    },
+    {
+        "name": "حرب الخليج الاولى",
+        "original_text": null,
+        "type": "EVENT",
+        "description": "حرب نشبت بين العراق وإيران في الفترة من 1980 إلى 1988، واشتملت على معارك برية وبحرية وجوية واسعة النطاق."
+    },
+    {
+        "name": "دوله الكويت",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "دولة عربية تقع في الشرق الأوسط، وتتمتع بموقع استراتيجي على رأس الخليج العربي. تشتهر بإنتاج النفط واحتياطياته الكبيرة."
+    },
+    {
+        "name": "العراق",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "دولة عربية تقع في الشرق الأوسط، وتتمتع بتاريخ حضاري وثقافي غني. عاصمتها بغداد."
+    },
+    {
+        "name": "12 ديسمبر عام 1983",
+        "original_text": null,
+        "type": "EVENT",
+        "description": "تاريخ وقوع سلسلة من التفجيرات الإرهابية في الكويت، استهدفت منشآت دبلوماسية ونفطية ومدنية."
+    },
+    {
+        "name": "السفاره الامريكيه",
+        "original_text": null,
+        "type": "ORGANIZATION",
+        "description": "البعثة الدبلوماسية للولايات المتحدة الأمريكية في دولة الكويت."
+    },
+    {
+        "name": "مدينه الكويت",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "عاصمة دولة الكويت، وهي مركزها السياسي والاقتصادي والثقافي."
+    },
+    {
+        "name": "السفاره الفرنسيه",
+        "original_text": null,
+        "type": "ORGANIZATION",
+        "description": "البعثة الدبلوماسية لفرنسا في دولة الكويت."
+    },
+    {
+        "name": "مطار الكويت",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "المطار الدولي الرئيسي لدولة الكويت."
+    },
+    {
+        "name": "جماعه الجهاد الاسلاميه",
+        "original_text": null,
+        "type": "ORGANIZATION",
+        "description": "منظمة إرهابية متطرفة."
+    },
+    {
+        "name": "حزب الدعوه",
+        "original_text": null,
+        "type": "ORGANIZATION",
+        "description": "حزب سياسي شيعي عراقي."
+    },
+    {
+        "name": "3 ديسمبر\n1984",
+        "original_text": null,
+        "type": "EVENT",
+        "description": "تاريخ اختطاف طائرة كويتية تُعرف باسم \"كاظمة\"."
+    },
+    {
+        "name": "25 مايو\n1985",
+        "original_text": null,
+        "type": "EVENT",
+        "description": "تاريخ هجوم انتحاري على موكب أمير الكويت الشيخ جابر الأحمد الصباح."
+    },
+    {
+        "name": "جابر الاحمد الصباح",
+        "original_text": null,
+        "type": "PERSON",
+        "description": "أمير دولة الكويت من عام 1977 إلى عام 2006."
+    },
+    {
+        "name": "11/7/1985",
+        "original_text": null,
+        "type": "EVENT",
+        "description": "تاريخ تفجير اثنين من المقاهي الشعبية في مدينة الكويت."
+    },
+    {
+        "name": "خمسه ابريل 1988",
+        "original_text": null,
+        "type": "EVENT",
+        "description": "تاريخ بدء حادثة اختطاف طائرة الجابرية الكويتية."
+    },
+    {
+        "name": "الخطوط الجويه الكويتيه",
+        "original_text": null,
+        "type": "ORGANIZATION",
+        "description": "شركة الطيران الوطنية لدولة الكويت."
+    },
+    {
+        "name": "بانكوك",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "عاصمة تايلاند، وهي مركزها السياسي والاقتصادي والثقافي."
+    },
+    {
+        "name": "صبحي محمود",
+        "original_text": null,
+        "type": "PERSON",
+        "description": "قائد طائرة الجابرية الكويتية المختطفة."
+    },
+    {
+        "name": "عيد العازمي",
+        "original_text": null,
+        "type": "PERSON",
+        "description": "مساعد قائد طائرة الجابرية الكويتية المختطفة."
+    },
+    {
+        "name": "مطار مشهد",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "مطار دولي يقع في مدينة مشهد، إيران."
+    },
+    {
+        "name": "ايران",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "دولة تقع في غرب آسيا، وعاصمتها طهران."
+    },
+    {
+        "name": "مصطفى مقصيد",
+        "original_text": null,
+        "type": "PERSON",
+        "description": "أحد رهائن طائرة الجابرية الكويتية."
+    },
+    {
+        "name": "الشيخ سعد العبد\nالله",
+        "original_text": null,
+        "type": "PERSON",
+        "description": "ولي عهد الكويت آنذاك."
+    },
+    {
+        "name": "حافظ الاسد",
+        "original_text": null,
+        "type": "PERSON",
+        "description": "رئيس سوريا من عام 1971 إلى عام 2000."
+    },
+    {
+        "name": "بيروت",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "عاصمة لبنان، وهي مركزها السياسي والاقتصادي والثقافي."
+    },
+    {
+        "name": "دمشق",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "عاصمة سوريا، وهي مركزها السياسي والاقتصادي والثقافي."
+    },
+    {
+        "name": "قبرص",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "جزيرة تقع في شرق البحر الأبيض المتوسط."
+    },
+    {
+        "name": "مطار لارنكا",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "مطار دولي يقع في مدينة لارنكا، قبرص."
+    },
+    {
+        "name": "عبد الله محمد\nالخالدي",
+        "original_text": null,
+        "type": "PERSON",
+        "description": "أحد رهائن طائرة الجابرية الكويتية، وقُتل على يد الخاطفين."
+    },
+    {
+        "name": "خالد ايوب بندر",
+        "original_text": null,
+        "type": "PERSON",
+        "description": "أحد رهائن طائرة الجابرية الكويتية، وقُتل على يد الخاطفين."
+    },
+    {
+        "name": "وليد ايوب",
+        "original_text": null,
+        "type": "PERSON",
+        "description": "شقيق خالد أيوب بندر، واستشهد أثناء الغزو العراقي على الكويت."
+    },
+    {
+        "name": "الجزائر",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "دولة تقع في شمال أفريقيا، وعاصمتها الجزائر."
+    },
+    {
+        "name": "مطار هواري بومدين",
+        "original_text": null,
+        "type": "LOCATION",
+        "description": "مطار دولي يقع في مدينة الجزائر، الجزائر."
+    }
+]

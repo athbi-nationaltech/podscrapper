@@ -1,0 +1,298 @@
+{
+    "Entities": [
+        {
+            "name": "الخليج",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية تقع في غرب آسيا، وتضم دولًا مثل السعودية والإمارات العربية المتحدة وقطر والبحرين والكويت وعُمان."
+        },
+        {
+            "name": "زنجبار",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "جزيرة تقع في المحيط الهندي قبالة سواحل تنزانيا، كانت مركزًا هامًا لتجارة الرقيق في القرن التاسع عشر."
+        },
+        {
+            "name": "شرق أفريقيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية واسعة تقع في شرق قارة أفريقيا، وتضم دولًا مثل كينيا وتنزانيا والصومال."
+        },
+        {
+            "name": "الدولة العباسية",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "خلافة إسلامية حكمت أجزاء واسعة من العالم الإسلامي من القرن الثامن إلى القرن الثالث عشر الميلادي."
+        },
+        {
+            "name": "المماليك",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "سلالة حكمت مصر وبلاد الشام من القرن الثالث عشر إلى القرن السادس عشر الميلادي، وكانوا في الأصل عبيدًا."
+        },
+        {
+            "name": "شبه الجزيرة العربية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "أكبر شبه جزيرة في العالم، تقع في جنوب غرب آسيا، وتضم دولًا مثل السعودية واليمن وعُمان."
+        },
+        {
+            "name": "أفريقيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "ثاني أكبر قارات العالم، تقع جنوب البحر الأبيض المتوسط، وتتميز بتنوعها الثقافي والجغرافي."
+        },
+        {
+            "name": "جنوب الصحراء",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية واسعة تقع جنوب الصحراء الكبرى في أفريقيا، وتضم دولًا مثل السنغال ونيجيريا."
+        },
+        {
+            "name": "شمال أفريقيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة جغرافية تقع في شمال قارة أفريقيا، وتضم دولًا مثل المغرب والجزائر وتونس."
+        },
+        {
+            "name": "أوروبا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "قارة تقع في نصف الكرة الشمالي، وتعتبر من أهم قارات العالم من الناحية السياسية والاقتصادية."
+        },
+        {
+            "name": "أمريكا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "قارة تقع في نصف الكرة الغربي، وتضم دولًا مثل الولايات المتحدة الأمريكية وكندا والبرازيل."
+        },
+        {
+            "name": "أكتوبر 1872",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "شهر أكتوبر من عام 1872، وهو تاريخ بداية قصة مأساوية عن تجارة البشر في شرق أفريقيا."
+        },
+        {
+            "name": "فلاشه",
+            "original_text": null,
+            "type": "MISC",
+            "description": "سفينة حربية إنجليزية أوقفت تجار البشر العرب في المياه الأفريقية."
+        },
+        {
+            "name": "داء الجدري",
+            "original_text": null,
+            "type": "MISC",
+            "description": "مرض فيروسي شديد العدوى، كان منتشرًا في الماضي وتسبب في وفاة الملايين."
+        },
+        {
+            "name": "التمور الخليجية",
+            "original_text": null,
+            "type": "PRODUCT",
+            "description": "نوع من الفواكه المجففة التي تشتهر بها منطقة الخليج العربي، وتتميز بطعمها الحلو."
+        },
+        {
+            "name": "الكويت",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شمال شرق شبه الجزيرة العربية، وتشتهر بإنتاج النفط."
+        },
+        {
+            "name": "الإمارات",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شرق شبه الجزيرة العربية، وتشتهر بنموها الاقتصادي السريع."
+        },
+        {
+            "name": "عُمان",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في جنوب شرق شبه الجزيرة العربية، وتشتهر بتاريخها البحري العريق."
+        },
+        {
+            "name": "الدوحة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "عاصمة دولة قطر، وتقع على الساحل الشرقي لشبه جزيرة قطر."
+        },
+        {
+            "name": "قطر",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في شرق شبه الجزيرة العربية، وتشتهر بإنتاج الغاز الطبيعي."
+        },
+        {
+            "name": "بيت بن جلمود",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "كان سوقًا لبيع الرقيق في قطر في أواسط القرن العشرين، وحولته حكومة قطر إلى متحف."
+        },
+        {
+            "name": "الإسلام",
+            "original_text": null,
+            "type": "RELIGIOUS_FIGURE",
+            "description": "دين توحيدي يؤمن به المسلمون، ويعتبر محمد بن عبد الله آخر الأنبياء والمرسلين."
+        },
+        {
+            "name": "بلال بن راشد",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "أحد العبيد الذين تم اختطافهم من أفريقيا وجلبه إلى دول الخليج، وروى قصته للوكالة البريطانية في البحرين."
+        },
+        {
+            "name": "البحرين",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة عربية تقع في الخليج العربي، وتشتهر بصناعة اللؤلؤ."
+        },
+        {
+            "name": "جدة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة سعودية تقع على ساحل البحر الأحمر، وتعتبر بوابة الحرمين الشريفين."
+        },
+        {
+            "name": "مكة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة سعودية تقع في غرب المملكة، وتعتبر أقدس بقاع الأرض عند المسلمين."
+        },
+        {
+            "name": "الأحساء",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة سعودية تقع في المنطقة الشرقية، وتشتهر بإنتاج التمور."
+        },
+        {
+            "name": "الخبر",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "مدينة سعودية تقع في المنطقة الشرقية، وتشتهر بصناعة النفط."
+        },
+        {
+            "name": "الوكالة البريطانية",
+            "original_text": null,
+            "type": "ORGANIZATION",
+            "description": "كانت تمثل المصالح البريطانية في الخليج العربي في القرن التاسع عشر وأوائل القرن العشرين."
+        },
+        {
+            "name": "تنزانيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في شرق أفريقيا، وتشتهر بمحمياتها الطبيعية."
+        },
+        {
+            "name": "كينيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في شرق أفريقيا، وتشتهر بمحمياتها الطبيعية."
+        },
+        {
+            "name": "1912",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "عام 1912، وهو العام الذي شهد ازدهارًا كبيرًا في تجارة اللؤلؤ."
+        },
+        {
+            "name": "حاكم قطر",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "حاكم دولة قطر في عام 1863، والذي وصف شعبه بأنهم عبيد اللؤلؤ."
+        },
+        {
+            "name": "1863",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "عام 1863، وهو العام الذي قال فيه حاكم قطر إن شعبه عبيد اللؤلؤ."
+        },
+        {
+            "name": "اليابان",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع في شرق آسيا، وتشتهر بتقدمها التكنولوجي."
+        },
+        {
+            "name": "1916",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "عام 1916، وهو العام الذي بدأ فيه إنتاج اللؤلؤ الصناعي في اليابان."
+        },
+        {
+            "name": "جنوب كاليفورنيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "منطقة تقع في جنوب ولاية كاليفورنيا الأمريكية، وتشتهر بإنتاج التمور."
+        },
+        {
+            "name": "الكساد الكبير",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "أزمة اقتصادية عالمية حدثت في الثلاثينيات من القرن العشرين."
+        },
+        {
+            "name": "1937",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "عام 1937، وهو العام الذي ألغت فيه البحرين تجارة الرقيق."
+        },
+        {
+            "name": "1952",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "عام 1952، وهو العام الذي ألغت فيه الكويت وقطر نظام الرق."
+        },
+        {
+            "name": "المملكة العربية السعودية",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "أكبر دول شبه الجزيرة العربية، وتشتهر بوجود الحرمين الشريفين."
+        },
+        {
+            "name": "1962",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "عام 1962، وهو العام الذي ألغت فيه المملكة العربية السعودية نظام الرق."
+        },
+        {
+            "name": "السلطان قابوس",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "سلطان عُمان الراحل، والذي ألغى الرق في عام 1970."
+        },
+        {
+            "name": "1970",
+            "original_text": null,
+            "type": "EVENT",
+            "description": "عام 1970، وهو العام الذي ألغى فيه السلطان قابوس الرق في عُمان."
+        },
+        {
+            "name": "سوق السويقة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "سوق تاريخي في مكة المكرمة، كان يُباع فيه العبيد في الماضي."
+        },
+        {
+            "name": "الحبشة",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "اسم تاريخي لمنطقة القرن الأفريقي، وتشمل حاليًا دولًا مثل إثيوبيا وإريتريا."
+        },
+        {
+            "name": "تركيا",
+            "original_text": null,
+            "type": "LOCATION",
+            "description": "دولة تقع بين قارتي آسيا وأوروبا، وتشتهر بتاريخها العريق."
+        },
+        {
+            "name": "فيه هوبر",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "مؤرخ ذكر أن 800,000 من الأفارقة دخلوا شبه الجزيرة العربية كعبيد."
+        },
+        {
+            "name": "محمد بن خليفه",
+            "original_text": null,
+            "type": "PERSON",
+            "description": "شخص اشترى بلال بن راشد كعبد، ونقله إلى الأحساء."
+        }
+    ]
+}

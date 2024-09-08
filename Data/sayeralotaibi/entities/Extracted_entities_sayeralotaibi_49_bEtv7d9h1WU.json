@@ -1,0 +1,106 @@
+{
+    "Entities": [
+        {
+            "name": "استراليا",
+            "original_text": "Australia",
+            "type": "LOCATION",
+            "description": "دولة تقع في نصف الكرة الجنوبي، تشتهر بغاباتها الكثيفة وتنوعها البيولوجي واقتصادها القوي. يطلق عليها اسم 'أرض الحلم'، وقد شهدت تاريخًا غنيًا من الهجرات والتغيرات الثقافية."
+        },
+        {
+            "name": "جنوب شرقي آسيا",
+            "original_text": "Southeast Asia",
+            "type": "LOCATION",
+            "description": "منطقة جغرافية تقع في جنوب شرق قارة آسيا، وتضم مجموعة متنوعة من الدول والثقافات."
+        },
+        {
+            "name": "جزر مضيق توريس",
+            "original_text": "Torres Strait Islands",
+            "type": "LOCATION",
+            "description": "مجموعة من الجزر الواقعة بين أستراليا وغينيا الجديدة،  تشتهر بثقافتها الفريدة وتاريخها البحري."
+        },
+        {
+            "name": "هولندا",
+            "original_text": "Netherlands",
+            "type": "LOCATION",
+            "description": "دولة أوروبية تقع في شمال غرب القارة،  تشتهر بقنواتها المائية وطواحين الهواء."
+        },
+        {
+            "name": "شركة الهند الشرقية",
+            "original_text": "Dutch East India Company",
+            "type": "ORGANIZATION",
+            "description": "شركة تجارية هولندية تأسست في القرن السابع عشر، سيطرت على التجارة في آسيا لعدة قرون."
+        },
+        {
+            "name": "ويليام ج",
+            "original_text": "William ج",
+            "type": "PERSON",
+            "description": "يُرجح أنه يشير إلى المستكشف الإنجليزي ويليام دامبير، الذي يُعتقد أنه أول بريطاني يهبط على الأراضي الأسترالية."
+        },
+        {
+            "name": "إسبانيا",
+            "original_text": "Spain",
+            "type": "LOCATION",
+            "description": "دولة تقع في جنوب غرب أوروبا،  تشتهر بثقافتها الغنية وتاريخها الإمبراطوري."
+        },
+        {
+            "name": "البرتغال",
+            "original_text": "Portugal",
+            "type": "LOCATION",
+            "description": "دولة تقع في جنوب غرب أوروبا،  تشتهر بتاريخها البحري واكتشافاتها الجغرافية."
+        },
+        {
+            "name": "بريطانيا",
+            "original_text": "Britain",
+            "type": "LOCATION",
+            "description": "جزيرة تقع قبالة الساحل الشمالي الغربي لأوروبا،  تشتهر بتاريخها الإمبراطوري وثقافتها الغنية."
+        },
+        {
+            "name": "جيمس كوك",
+            "original_text": "James Cook",
+            "type": "PERSON",
+            "description": "مستكشف بريطاني شهير، قاد ثلاث رحلات إلى المحيط الهادئ، واشتهر برسم خرائط لمناطق واسعة من العالم."
+        },
+        {
+            "name": "شبه الجزيرة العربية",
+            "original_text": "Arabian Peninsula",
+            "type": "LOCATION",
+            "description": "شبه جزيرة تقع في جنوب غرب آسيا،  تشتهر بمناخها الصحراوي واحتياطياتها النفطية."
+        },
+        {
+            "name": "أفغانستان",
+            "original_text": "Afghanistan",
+            "type": "LOCATION",
+            "description": "دولة تقع في جنوب آسيا،  تشتهر بتاريخها الغني وثقافتها المتنوعة."
+        },
+        {
+            "name": "الهند",
+            "original_text": "India",
+            "type": "LOCATION",
+            "description": "دولة تقع في جنوب آسيا،  تشتهر بثقافتها الغنية وتاريخها القديم."
+        },
+        {
+            "name": "كشمير",
+            "original_text": "Kashmir",
+            "type": "LOCATION",
+            "description": "منطقة متنازع عليها تقع في جبال الهيمالايا،  تشتهر بجمالها الطبيعي."
+        },
+        {
+            "name": "بلوشستان",
+            "original_text": "Balochistan",
+            "type": "LOCATION",
+            "description": "مقاطعة تقع في جنوب غرب باكستان،  تشتهر بتاريخها الغني وثقافتها المتنوعة."
+        },
+        {
+            "name": "الإسلام",
+            "original_text": "Islam",
+            "type": "RELIGIOUS_FIGURE",
+            "description": "دين سماوي يدعو إلى الإيمان بالله الواحد الأحد،  ويعتبر محمدًا ﷺ  نبيًا ورسولًا."
+        },
+        {
+            "name": "المركز المصرفي الأسترالي",
+            "original_text": "Reserve Bank of Australia",
+            "type": "ORGANIZATION",
+            "description": "البنك المركزي لأستراليا،  يتولى مسؤولية السياسة النقدية وإصدار العملة."
+        }
+    ]
+}

@@ -124,38 +124,55 @@ and put the entities inside Entities array
             safety_settings=safety_settings,
         )
         
-        mainResponse = responses.candidates[0].content.parts[0].text
-
+        # mainResponse = responses.candidates[0].content.parts[0].text
         
-        if is_json(mainResponse):
-           fileName2 = fileName.replace(".txt","")
-           generated_file = "Extracted_entities_" + fileName2 + ".json"
-           output_file = os.path.join(EntDirectory, generated_file)
-           print("----------------------------------")
-           print("Correct JSON", output_file)
-           print("----------------------------------")
-           mainResponse = json.loads(mainResponse)
-           with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(mainResponse, f, ensure_ascii=False, indent=4)
+        if responses.candidates and hasattr(responses.candidates[0].content, 'parts') and len(responses.candidates[0].content.parts) > 0:
+            mainResponse = responses.candidates[0].content.parts[0].text
+            if is_json(mainResponse):
+                fileName2 = fileName.replace(".txt","")
+                generated_file = "Extracted_entities_" + fileName2 + ".json"
+                output_file = os.path.join(EntDirectory, generated_file)
+                print("----------------------------------")
+                print("Correct JSON", output_file)
+                print("----------------------------------")
+                mainResponse = json.loads(mainResponse)
+                with open(output_file, "w", encoding="utf-8") as f:
+                    json.dump(mainResponse, f, ensure_ascii=False, indent=4)
+            else:
+                fileName2 = fileName.replace(".txt","")
+                generated_file = "Null_entities_" + fileName2 + ".json"
+                output_file = os.path.join(EntDirectory, generated_file)
+                print("----------------------------------")
+                print("Not Correct JSON", output_file)
+                print("----------------------------------")
+                mainResponse = mainResponse.replace("```json", "")
+                mainResponse = mainResponse.replace("`", "")
+                mainResponse = mainResponse.replace("\n", "")
+                mainResponse = mainResponse.replace("\\", "").replace('/', "")
+                mainResponse = mainResponse.replace(r"/", "")
+                # Remove first and last character from mainResponse
+                mainResponse = mainResponse[1:-1]
+                with open(output_file, "w", encoding="utf-8") as f:
+                        json.dump(mainResponse, f, ensure_ascii=False, indent=4)
         else:
-           fileName2 = fileName.replace(".txt","")
-           generated_file = "Null_entities_" + fileName2 + ".json"
-           output_file = os.path.join(EntDirectory, generated_file)
-           print("----------------------------------")
-           print("Not Correct JSON", output_file)
-           print("----------------------------------")
-           mainResponse = mainResponse.replace("```json", "")
-           mainResponse = mainResponse.replace("`", "")
-           mainResponse = mainResponse.replace("\n", "")
-           mainResponse = mainResponse.replace("\\", "").replace('/', "")
-           mainResponse = mainResponse.replace(r"/", "")
-           # Remove first and last character from mainResponse
-           mainResponse = mainResponse[1:-1]
-           with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(mainResponse, f, ensure_ascii=False, indent=4)
+            print("Error: No valid response content found.")
+            print(responses)
+            fileName2 = fileName.replace(".txt","")
+            generated_file = "Error_entities_" + fileName2 + ".json"
+            output_file = os.path.join(EntDirectory, generated_file)
+            jsonNew = json.dumps(str(responses))
+            
+            with open(output_file, "w", encoding="utf-8") as f:
+                json.dump(jsonNew, f, ensure_ascii=False, indent=4)
+            print("----------------------------------")
+            # exit()
+            # pass # Set a default empty JSON object
+        
+        
         
         
         print(f"Entities saved to: {generated_file}")
+        # exit()
     finally:
         stop_counter.set()
         counter_thread.join()
@@ -168,7 +185,7 @@ def is_json(myjson):
   return True
 
 # generate("aljazeera360","aljazeera360_0_0WAtP28eD1c.txt")  
-directory2 = 'AlbesatAhmadi'
+directory2 = 'sayeralotaibi'
 newDirectory = "Data/" + directory2 + "/raw"
 counter = 1
 try:
