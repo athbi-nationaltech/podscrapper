@@ -398,4 +398,214 @@
     "video_title": "بدون ورق #69 | يوسف البناي | هل نحن وحدنا؟",
     "channelTitle": "بودكاست بدون ورق",
     "publishedAt": "2022-02-03T18:00:16Z"
+}{
+    "status": "success",
+    "channel_name": "البودكاست",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/البودكاست/json/البودكاست_0_vBfIhYgpk7s.json",
+    "video_url": "https://www.youtube.com/watch?v=vBfIhYgpk7s",
+    "video_title": "من أين تبدأ التربية؟ | د.آلاء محمود نصيف | 141",
+    "channelTitle": "بودكاست بدون ورق",
+    "publishedAt": "2024-09-19T17:55:00Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "kQ8EFBKTBwzMz_G6rlfJqVMDe2I",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "9oGxNEA3r-Wnq0-YnVhuZcc-7mo",
+                "id": "vBfIhYgpk7s",
+                "contentDetails": {
+                    "duration": "PT2H53M7S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "245283",
+                    "likeCount": "10565",
+                    "favoriteCount": "0",
+                    "commentCount": "406"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "البودكاست",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/البودكاست/json/البودكاست_27_lAxcOeXXyPQ.json",
+    "video_url": "https://www.youtube.com/watch?v=lAxcOeXXyPQ",
+    "video_title": "اضاءات دينية: جلسة استفهام (1/2) | بدون ورق 116 | الشيخ د.عثمان محمد الخميس",
+    "channelTitle": "بودكاست بدون ورق",
+    "publishedAt": "2023-09-28T18:00:18Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "fGUkVzyd4MI0_mU-OYqsKQ2KS7E",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "a0wCWBgJAeq2sUwsGfuEvMA66Ms",
+                "id": "lAxcOeXXyPQ",
+                "contentDetails": {
+                    "duration": "PT2H40S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "true",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "5944075",
+                    "likeCount": "140560",
+                    "favoriteCount": "0",
+                    "commentCount": "7844"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "البودكاست",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/البودكاست/json/البودكاست_49_GdMDIPZ1UFU.json",
+    "video_url": "https://www.youtube.com/watch?v=GdMDIPZ1UFU",
+    "video_title": "من الألحان إلى القرآن | بدون ورق 94 | الشيخ حمد السنان",
+    "channelTitle": "بودكاست بدون ورق",
+    "publishedAt": "2022-11-03T18:00:05Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "N7DweL3S1BDQRisbHZ756jrZQq4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "sclUZVkFuPWcAKLKUkidHkAilH0",
+                "id": "GdMDIPZ1UFU",
+                "contentDetails": {
+                    "duration": "PT1H48M",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "218955",
+                    "likeCount": "2762",
+                    "favoriteCount": "0",
+                    "commentCount": "270"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "البودكاست",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/البودكاست/json/البودكاست_50_Zl8TQ_c1ez0.json",
+    "video_url": "https://www.youtube.com/watch?v=Zl8TQ_c1ez0",
+    "video_title": "بين الإبل والتكنولوجيا | بدون ورق 93 | عبدالله الدبوس",
+    "channelTitle": "بودكاست بدون ورق",
+    "publishedAt": "2022-10-20T18:00:24Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "G2K5sD1zEViPksY1E6S2U1JF1R8",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "d1EVZF5fEIcTkueBY3sGh0VzwAk",
+                "id": "Zl8TQ_c1ez0",
+                "contentDetails": {
+                    "duration": "PT1H57M16S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "309817",
+                    "likeCount": "3551",
+                    "favoriteCount": "0",
+                    "commentCount": "377"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Religion"
+                    ]
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+}{
+    "status": "success",
+    "channel_name": "البودكاست",
+    "transcript_path": "/Users/athbialmutairi/Desktop/NatTech/pixie-project/Data/البودكاست/json/البودكاست_51_nmJFjePl7-k.json",
+    "video_url": "https://www.youtube.com/watch?v=nmJFjePl7-k",
+    "video_title": "الطريق الى التحرر المالي | بدون ورق 92 | صلاح خاشقجي",
+    "channelTitle": "بودكاست بدون ورق",
+    "publishedAt": "2022-10-13T18:00:19Z",
+    "videoInfo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "UQMB_6tcODiIMxCtutmleyqJQD4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "cC_wwWJdXO66aHTQvwVLLzwZ0TQ",
+                "id": "nmJFjePl7-k",
+                "contentDetails": {
+                    "duration": "PT1H39M33S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "statistics": {
+                    "viewCount": "647381",
+                    "likeCount": "13358",
+                    "favoriteCount": "0",
+                    "commentCount": "412"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
 }
